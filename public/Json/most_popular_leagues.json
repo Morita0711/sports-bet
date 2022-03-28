@@ -1,0 +1,200 @@
+{
+  "futebol": {
+    "en_Name": "soccer",
+    "api_version": "v4",
+    "api_key": "4v8qsm5w6pgcns228e6pz2vz",
+    "leagues": [
+      {
+        "country": "Inglaterra",
+        "name": "Premier League",
+        "id": "sr:competition:325"
+      },
+      {
+        "country": "Alemanha",
+        "name": "Bundesliga",
+        "id": "sr:competition:35"
+      },
+      {
+        "country": "Espanha",
+        "name": "La Liga",
+        "id": "sr:competition:8"
+      },
+      {
+        "country": "Inglaterra",
+        "name": "Championship",
+        "id": "sr:competition:18"
+      },
+      {
+        "country": "Brasil",
+        "name": "Brasileirão Série A",
+        "id": "sr:competition:325"
+      }
+    ]
+  },
+  "Basquete": {
+    "en_Name": "basketball",
+    "api_version": "v2",
+    "api_key": "rpqvd8kvav7srxnp7b2ua7mc",
+    "leagues": [
+      {
+        "country": "",
+        "name": "NBA"
+      },
+      {
+        "country": "",
+        "name": "BBL"
+      },
+      {
+        "country": "",
+        "name": "Liga ACB"
+      },
+      {
+        "country": "",
+        "name": "PBA"
+      },
+      {
+        "country": "",
+        "name": "WNBA"
+      }
+    ]
+  },
+  "Tênis": {
+    "en_Name": "tennis",
+    "api_version": "v3",
+    "api_key": "6d85gmk84bp3yjt47wdrjhs7",
+    "leagues": [
+      {
+        "country": "",
+        "name": "WTA"
+      },
+      {
+        "country": "",
+        "name": "ITF MEN"
+      },
+      {
+        "country": "",
+        "name": "MULHERES ITF"
+      },
+      {
+        "country": "",
+        "name": "ATP"
+      },
+      {
+        "country": "",
+        "name": "DAVIS CUP"
+      },
+      {
+        "country": "",
+        "name": "DESAFIADOR"
+      }
+    ]
+  },
+  "Futebol_Americano": {
+    "en_Name": "americanfootball",
+    "api_version": "v2",
+    "api_key": "xnudbqdneze5vkhvgygvcvtk",
+    "leagues": [
+      {
+        "country": "",
+        "name": "NFL"
+      },
+      {
+        "country": "",
+        "name": "NCAA"
+      },
+      {
+        "country": "",
+        "name": "CFL"
+      },
+      {
+        "country": "",
+        "name": "XFL"
+      }
+    ]
+  },
+  "Hockey_no_gelo": {
+    "en_Name": "icehockey",
+    "api_version": "v2",
+    "api_key": "wmkcsepkbshnw9wma85tec5c",
+    "leagues": [
+      {
+        "country": "",
+        "name": "NHL"
+      },
+      {
+        "country": "",
+        "name": "KHL"
+      },
+      {
+        "country": "",
+        "name": "WHL"
+      }
+    ]
+  },
+  "Beisebol": {
+    "en_Name": "baseball",
+    "api_version": "v2",
+    "api_key": "rbvvhfkr7vmy9heqbt6djt3c",
+    "leagues": [
+      {
+        "country": "",
+        "name": "MLB"
+      },
+      {
+        "country": "",
+        "name": "PROFESSIONAL BASEBALL"
+      },
+      {
+        "country": "",
+        "name": "MEXICAN LEAGUE"
+      }
+    ]
+  },
+  "Esportes": {
+    "en_Name": "",
+    "api_version": "v2",
+    "api_key": "",
+    "leagues": []
+  },
+  "MMA": {
+    "en_Name": "",
+    "api_version": "v2",
+    "api_key": "",
+    "leagues": []
+  },
+  "Críquete": {
+    "en_Name": "cricket-t2",
+    "api_version": "",
+    "api_key": "5zdhv3vy79n8uh57y7xfktj9",
+    "leagues": [
+      {
+        "country": "",
+        "name": "MINOR LEAGUE"
+      },
+      {
+        "country": "",
+        "name": "INDIAN PREMIER LEAGUE"
+      },
+      {
+        "country": "",
+        "name": "BIG BASH LEAGUE"
+      },
+      {
+        "country": "",
+        "name": "PAKISTAN SUPER LEAGUE"
+      }
+    ]
+  },
+  "Rúgbi": {
+    "en_Name": "rugby-league",
+    "api_version": "v3",
+    "api_key": "bext8ybg82fcbhjqgx4e4jjr",
+    "leagues": []
+  },
+  "Boxe": {
+    "en_Name": "",
+    "api_version": "v2",
+    "api_key": "",
+    "leagues": []
+  }
+}

@@ -1,0 +1,9126 @@
+[
+  {
+    "id": "sr:competition:1",
+    "name": "Campeonato Europeu",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:7",
+    "name": "Liga dos Campeões da UEFA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:8",
+    "name": "La Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:9",
+    "name": "Primeira Divisão B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:33",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:11",
+    "name": "Campeonato do Mundo, Qualificação UEFA",
+    "parent_id": "sr:competition:24660",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:13",
+    "name": "Campeonato do Mundo, Qualificação CAF",
+    "parent_id": "sr:competition:24660",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:14",
+    "name": "Campeonato do Mundo, Qualificação CONCACAF",
+    "parent_id": "sr:competition:24660",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:16",
+    "name": "Campeonato do Mundo",
+    "parent_id": "sr:competition:24660",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:17",
+    "name": "Premier League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:18",
+    "name": "Championship",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:19",
+    "name": "Taça FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:20",
+    "name": "Série de Elite",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:21",
+    "name": "Taça EFL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:22",
+    "name": "1. Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:23",
+    "name": "Série A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:24",
+    "name": "League One",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:25",
+    "name": "League Two",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:26",
+    "name": "Qualificação para Europeu Sub-21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:27",
+    "name": "Campeonato Europeu Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:28",
+    "name": "Taça da Ásia, Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:29",
+    "name": "Taça NK, Masculino",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:34",
+    "name": "Ligue 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:35",
+    "name": "Bundesliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:30",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:36",
+    "name": "Primeira Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:37",
+    "name": "Eredivisie",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:35",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:38",
+    "name": "Primeira Divisão A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:33",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:39",
+    "name": "Superliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:8",
+      "name": "Dinamarca",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:40",
+    "name": "Allsvenskan",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:41",
+    "name": "Liga Veikkaus",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:42",
+    "name": "Liga Regional Norte",
+    "parent_id": "sr:competition:24664",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:43",
+    "name": "Liga Regional Sul",
+    "parent_id": "sr:competition:24664",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:44",
+    "name": "2. Bundesliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:30",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:45",
+    "name": "Bundesliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:17",
+      "name": "Áustria",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:46",
+    "name": "Segunda Liga Sueca",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:47",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:8",
+      "name": "Dinamarca",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:52",
+    "name": "Super Lig",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:46",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:53",
+    "name": "Série B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:54",
+    "name": "LaLiga 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:55",
+    "name": "Ykkonen",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:65",
+    "name": "2ª Divisão Este",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:8",
+      "name": "Dinamarca",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:67",
+    "name": "Div 1 Norra",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:68",
+    "name": "Div 1 Södra",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:70",
+    "name": "2ª Divisão, Norra Svealand",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:71",
+    "name": "2ª Divisão, Norrland",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:72",
+    "name": "2ª Divisão, Södra Götaland",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:73",
+    "name": "2ª Divisão, Västra Götaland",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:74",
+    "name": "2ª Divisão, Östra Svealand",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:76",
+    "name": "DBU Pokalen",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:8",
+      "name": "Dinamarca",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:80",
+    "name": "Taça Sueca",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:83",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:91",
+    "name": "Taça Russa",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:92",
+    "name": "Campeonato Carioca",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:96",
+    "name": "Taça da Turquia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:46",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:97",
+    "name": "2ª Liga TFF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:98",
+    "name": "1 Liga Bank Asya",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:46",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:101",
+    "name": "Taça da J.League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:131",
+    "name": "Segunda Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:35",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:133",
+    "name": "Copa America",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:135",
+    "name": "2. Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:17",
+      "name": "Áustria",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:136",
+    "name": "A-League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:140",
+    "name": "Gold Cup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:142",
+    "name": "Oberliga B-Wuerttemberg",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:144",
+    "name": "5ª Liga Alemã",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:145",
+    "name": "Oberliga NOFV Norte",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:146",
+    "name": "Oberliga Westfalen",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:150",
+    "name": "NOFV Sul",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:152",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:77",
+      "name": "Roménia",
+      "country_code": "ROU"
+    }
+  },
+  {
+    "id": "sr:competition:154",
+    "name": "Liga Prva Crnogorska",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:386",
+      "name": "Montenegro",
+      "country_code": "MNE"
+    }
+  },
+  {
+    "id": "sr:competition:155",
+    "name": "Liga Profissional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:166",
+    "name": "Regionalliga Este",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:97",
+      "name": "Áustria Amadores",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:167",
+    "name": "Regionalliga Oeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:97",
+      "name": "Áustria Amadores",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:168",
+    "name": "Regionalliga Centro",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:97",
+      "name": "Áustria Amadores",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:169",
+    "name": "Liga Vysshaya",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:91",
+      "name": "Bielorrússia",
+      "country_code": "BLR"
+    }
+  },
+  {
+    "id": "sr:competition:170",
+    "name": "1ª HNL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:14",
+      "name": "Croácia",
+      "country_code": "HRV"
+    }
+  },
+  {
+    "id": "sr:competition:171",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:102",
+      "name": "Chipre",
+      "country_code": "CYP"
+    }
+  },
+  {
+    "id": "sr:competition:172",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:173",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:174",
+    "name": "Conferência Sul",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:176",
+    "name": "Conferência Norte",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:178",
+    "name": "Liga Premium",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:92",
+      "name": "Estónia",
+      "country_code": "EST"
+    }
+  },
+  {
+    "id": "sr:competition:179",
+    "name": "Kakkonen Grupo A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:180",
+    "name": "Kakkonen Grupo B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:181",
+    "name": "Kakkonen Grupo C",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:182",
+    "name": "Ligue 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:183",
+    "name": "Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:184",
+    "name": "Hessenliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:185",
+    "name": "Super Liga 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:186",
+    "name": "Super Liga 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:187",
+    "name": "NB I",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:11",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:188",
+    "name": "Urvalsdeild",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:190",
+    "name": "Oberliga Sudoeste",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:192",
+    "name": "Divisão Principal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:51",
+      "name": "Irlanda",
+      "country_code": "IRL"
+    }
+  },
+  {
+    "id": "sr:competition:193",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:51",
+      "name": "Irlanda",
+      "country_code": "IRL"
+    }
+  },
+  {
+    "id": "sr:competition:194",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:51",
+      "name": "Irlanda",
+      "country_code": "IRL"
+    }
+  },
+  {
+    "id": "sr:competition:195",
+    "name": "Taça FAI FORD",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:51",
+      "name": "Irlanda",
+      "country_code": "IRL"
+    }
+  },
+  {
+    "id": "sr:competition:196",
+    "name": "J.League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:197",
+    "name": "Virsliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:163",
+      "name": "Letónia",
+      "country_code": "LVA"
+    }
+  },
+  {
+    "id": "sr:competition:198",
+    "name": "1ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:160",
+      "name": "Lituânia",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "id": "sr:competition:199",
+    "name": "Liga Prva",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:159",
+      "name": "Macedónia do Norte",
+      "country_code": "MKD"
+    }
+  },
+  {
+    "id": "sr:competition:200",
+    "name": "Premiership",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:130",
+      "name": "Irlanda do Norte",
+      "country_code": "NIR"
+    }
+  },
+  {
+    "id": "sr:competition:201",
+    "name": "Toppserien Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:202",
+    "name": "Ekstraklasa",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:203",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:204",
+    "name": "Liga Nacional de Futebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:205",
+    "name": "FNL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:206",
+    "name": "Campeonato",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:207",
+    "name": "League One",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:209",
+    "name": "League Two",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:210",
+    "name": "Superliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:152",
+      "name": "Sérvia",
+      "country_code": "SRB"
+    }
+  },
+  {
+    "id": "sr:competition:211",
+    "name": "Superliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:23",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:212",
+    "name": "Liga PRVA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:24",
+      "name": "Eslovénia",
+      "country_code": "SVN"
+    }
+  },
+  {
+    "id": "sr:competition:213",
+    "name": "Supertaça de Espanha",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:214",
+    "name": "Damallsvenskan, Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:215",
+    "name": "Super Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:25",
+      "name": "Suíça",
+      "country_code": "CHE"
+    }
+  },
+  {
+    "id": "sr:competition:216",
+    "name": "Liga Challenge",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:25",
+      "name": "Suíça",
+      "country_code": "CHE"
+    }
+  },
+  {
+    "id": "sr:competition:217",
+    "name": "DFB Pokal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:30",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:218",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:86",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:219",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:86",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:220",
+    "name": "Taça da Finlândia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:222",
+    "name": "Liga Principal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:158",
+      "name": "Bósnia & Herzegovina",
+      "country_code": "BIH"
+    }
+  },
+  {
+    "id": "sr:competition:224",
+    "name": "2ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:23",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:229",
+    "name": "1ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:231",
+    "name": "Primeira Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:281",
+      "name": "Venezuela",
+      "country_code": "VEN"
+    }
+  },
+  {
+    "id": "sr:competition:232",
+    "name": "Bundesliga Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:238",
+    "name": "Primeira Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:239",
+    "name": "Segunda Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:240",
+    "name": "LigaPro Primeira A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:165",
+      "name": "Equador",
+      "country_code": "ECU"
+    }
+  },
+  {
+    "id": "sr:competition:242",
+    "name": "Major League Soccer",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:246",
+    "name": "Taça da Ásia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:247",
+    "name": "Primeira Liga Profissional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:78",
+      "name": "Bulgária",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "id": "sr:competition:254",
+    "name": "Cymru Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:131",
+      "name": "País de Gales",
+      "country_code": "WAL"
+    }
+  },
+  {
+    "id": "sr:competition:258",
+    "name": "Campeonato Europeu Sub19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:266",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:66",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:269",
+    "name": "Liga Kupa",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:11",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:270",
+    "name": "Taça das Nações Africanas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:278",
+    "name": "Primeira Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:57",
+      "name": "Uruguai",
+      "country_code": "URY"
+    }
+  },
+  {
+    "id": "sr:competition:279",
+    "name": "Taça Mundo Sub17",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:281",
+    "name": "Taça da Polónia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:282",
+    "name": "Taça da Rep. Checa",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:283",
+    "name": "L de Futebol 2, 1º Grupo",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:290",
+    "name": "Campeonato do Mundo Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:291",
+    "name": "Taça da Eslovénia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:24",
+      "name": "Eslovénia",
+      "country_code": "SVN"
+    }
+  },
+  {
+    "id": "sr:competition:295",
+    "name": "Campeonato do Mundo, Qualificação CONMEBOL",
+    "parent_id": "sr:competition:24660",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:301",
+    "name": "L de Futebol 2, 2º Grupo",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:303",
+    "name": "Taça da Eslováquia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:23",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:305",
+    "name": "Taça Hungara",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:11",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:307",
+    "name": "Taça da Croácia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:14",
+      "name": "Croácia",
+      "country_code": "HRV"
+    }
+  },
+  {
+    "id": "sr:competition:308",
+    "name": "Campeonato do Mundo, Qualificação AFC",
+    "parent_id": "sr:competition:24660",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:309",
+    "name": "Campeonato do Mundo, Qualificação OFC",
+    "parent_id": "sr:competition:24660",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:312",
+    "name": "Taça da Ucrânia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:86",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:314",
+    "name": "Taça LAV",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:152",
+      "name": "Sérvia",
+      "country_code": "SRB"
+    }
+  },
+  {
+    "id": "sr:competition:315",
+    "name": "Taça do Chipre",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:102",
+      "name": "Chipre",
+      "country_code": "CYP"
+    }
+  },
+  {
+    "id": "sr:competition:323",
+    "name": "Taça do Imperador",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:325",
+    "name": "Brasileirão Série A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:326",
+    "name": "Taça da Bélgica",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:33",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:327",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:328",
+    "name": "Taça de Itália",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:329",
+    "name": "Taça do Rei",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:330",
+    "name": "KNVB Beker",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:35",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:331",
+    "name": "Taça Challenge",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:332",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:333",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:334",
+    "name": "Troféu Johnstone's Paint",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:335",
+    "name": "Taça de França",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:336",
+    "name": "Taça de Portugal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:338",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:33",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:339",
+    "name": "Troféu dos Campeões",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:340",
+    "name": "Johan Cruijff Schaal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:35",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:341",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:342",
+    "name": "Troféu Berlusconi",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:345",
+    "name": "Supertaça de Portugal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:346",
+    "name": "Community Shield",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:347",
+    "name": "Taça da Escócia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:348",
+    "name": "Taça da Macedónia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:159",
+      "name": "Macedónia do Norte",
+      "country_code": "MKD"
+    }
+  },
+  {
+    "id": "sr:competition:351",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:355",
+    "name": "Taça da Roménia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:77",
+      "name": "Roménia",
+      "country_code": "ROU"
+    }
+  },
+  {
+    "id": "sr:competition:356",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:92",
+      "name": "Estónia",
+      "country_code": "EST"
+    }
+  },
+  {
+    "id": "sr:competition:357",
+    "name": "Campeonato do Mundo de Clubes",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:358",
+    "name": "Liga Principal de Futebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:322",
+      "name": "África do Sul",
+      "country_code": "ZAF"
+    }
+  },
+  {
+    "id": "sr:competition:365",
+    "name": "Taça da Bulgária",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:78",
+      "name": "Bulgária",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "id": "sr:competition:367",
+    "name": "Taça da Liga Loosemores",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:131",
+      "name": "País de Gales",
+      "country_code": "WAL"
+    }
+  },
+  {
+    "id": "sr:competition:370",
+    "name": "Taça de Israel",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:66",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:372",
+    "name": "Campeonato Paulista Série A1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:373",
+    "name": "Taça do Brasil",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:374",
+    "name": "Campeonato Baiano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:375",
+    "name": "Taça da Grécia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:376",
+    "name": "Campeonato Catarinense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:377",
+    "name": "Campeonato Gaúcho",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:378",
+    "name": "Campeonato Cearense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:379",
+    "name": "Campeonato Mineiro",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:380",
+    "name": "Campeonato Pernambucano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:381",
+    "name": "Campeonato Goiano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:382",
+    "name": "Campeonato Paranaense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:384",
+    "name": "Copa Libertadores",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:388",
+    "name": "Taça Galesa FAW",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:131",
+      "name": "País de Gales",
+      "country_code": "WAL"
+    }
+  },
+  {
+    "id": "sr:competition:390",
+    "name": "Brasileirão Série B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:392",
+    "name": "Campeonato de Futebol EAFF E-1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:393",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:395",
+    "name": "2ª Divisão, Ostra Gotaland",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:397",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:399",
+    "name": "Taça da Suiça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:25",
+      "name": "Suíça",
+      "country_code": "CHE"
+    }
+  },
+  {
+    "id": "sr:competition:402",
+    "name": "J.League 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:404",
+    "name": "Campeonato de Futebol EAFF E-1, Fem",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:406",
+    "name": "Primeira Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:20",
+      "name": "Perú",
+      "country_code": "PER"
+    }
+  },
+  {
+    "id": "sr:competition:410",
+    "name": "K-League 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:291",
+      "name": "República da Coreia",
+      "country_code": "KOR"
+    }
+  },
+  {
+    "id": "sr:competition:411",
+    "name": "Algarve Cup, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:429",
+    "name": "Campeonato Europeu Sub17",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:436",
+    "name": "Torneio Olimpico",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:437",
+    "name": "Torneio Olimpico Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:445",
+    "name": "Taça OBL Stiegl",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:17",
+      "name": "Áustria",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:446",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:11",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:448",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:24",
+      "name": "Eslovénia",
+      "country_code": "SVN"
+    }
+  },
+  {
+    "id": "sr:competition:452",
+    "name": "U21 Torneio de Toulon",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:453",
+    "name": "Taça do Mundo Sub20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:454",
+    "name": "Campeonato Europeu Sub-21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:460",
+    "name": "Taça das Confederações",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:463",
+    "name": "Liga dos Campeões da AFC",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:465",
+    "name": "Supertaça da UEFA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:466",
+    "name": "Taça da Paz",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:477",
+    "name": "Campeonato Europeu Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:480",
+    "name": "Taça Sul-Americana",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:482",
+    "name": "Liga Canadiana de Futebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:388",
+      "name": "Canadá",
+      "country_code": "CAN"
+    }
+  },
+  {
+    "id": "sr:competition:488",
+    "name": "Taça Uhren",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:490",
+    "name": "Recopa Sul-Americana",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:491",
+    "name": "3ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:30",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:493",
+    "name": "Regionalliga Oeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:495",
+    "name": "Taça Open dos Estados Unidos",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:498",
+    "name": "Liga dos Campeões da CONCACAF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:504",
+    "name": "Taça da Islândia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:505",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:46",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:507",
+    "name": "Liga NRW",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:508",
+    "name": "Liga Bremen",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:509",
+    "name": "Oberliga Hamburgo",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:510",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:78",
+      "name": "Bulgária",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "id": "sr:competition:511",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:512",
+    "name": "Liga Schleswig-Holstein",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:515",
+    "name": "II Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:532",
+    "name": "2ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:24",
+      "name": "Eslovénia",
+      "country_code": "SVN"
+    }
+  },
+  {
+    "id": "sr:competition:533",
+    "name": "Danmarksserien, Grupo 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:95",
+      "name": "Dinamarca Amadores",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:534",
+    "name": "Danmarksserien, Grupo 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:95",
+      "name": "Dinamarca Amadores",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:535",
+    "name": "Danmarksserien, Grupo 3",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:95",
+      "name": "Dinamarca Amadores",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:544",
+    "name": "Segunda Divisão B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:550",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:102",
+      "name": "Chipre",
+      "country_code": "CYP"
+    }
+  },
+  {
+    "id": "sr:competition:562",
+    "name": "Liga 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:77",
+      "name": "Roménia",
+      "country_code": "ROU"
+    }
+  },
+  {
+    "id": "sr:competition:569",
+    "name": "2ª Div Pro Liga, Grupo A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:570",
+    "name": "2ª Div Pro Liga, Grupo B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:578",
+    "name": "Taça da Bielorrússia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:91",
+      "name": "Bielorrússia",
+      "country_code": "BLR"
+    }
+  },
+  {
+    "id": "sr:competition:583",
+    "name": "Taça da Bosnia & Herzegovina",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:158",
+      "name": "Bósnia & Herzegovina",
+      "country_code": "BIH"
+    }
+  },
+  {
+    "id": "sr:competition:594",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:148",
+      "name": "Nova Zelândia",
+      "country_code": "NZL"
+    }
+  },
+  {
+    "id": "sr:competition:602",
+    "name": "Taça AFF Suzuki",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:611",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:130",
+      "name": "Irlanda do Norte",
+      "country_code": "NIR"
+    }
+  },
+  {
+    "id": "sr:competition:615",
+    "name": "Taça FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:291",
+      "name": "República da Coreia",
+      "country_code": "KOR"
+    }
+  },
+  {
+    "id": "sr:competition:622",
+    "name": "Taça do Golfo",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:626",
+    "name": "V-League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:366",
+      "name": "Vietname",
+      "country_code": "VNM"
+    }
+  },
+  {
+    "id": "sr:competition:627",
+    "name": "Liga 2, Série 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:77",
+      "name": "Roménia",
+      "country_code": "ROU"
+    }
+  },
+  {
+    "id": "sr:competition:628",
+    "name": "Troféu FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:629",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:134",
+      "name": "Malta",
+      "country_code": "MLT"
+    }
+  },
+  {
+    "id": "sr:competition:630",
+    "name": "Liga Challenge",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:134",
+      "name": "Malta",
+      "country_code": "MLT"
+    }
+  },
+  {
+    "id": "sr:competition:632",
+    "name": "Campeonato CONMEBOL Sub20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:633",
+    "name": "Trofeu FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:134",
+      "name": "Malta",
+      "country_code": "MLT"
+    }
+  },
+  {
+    "id": "sr:competition:634",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:45",
+      "name": "Singapura",
+      "country_code": "SGP"
+    }
+  },
+  {
+    "id": "sr:competition:637",
+    "name": "Campeonato das Nações Africanas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:638",
+    "name": "Campeonato CONCACAF Sub20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:642",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:643",
+    "name": "Supertaça Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:649",
+    "name": "Super Liga Chinesa",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:99",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:655",
+    "name": "Taça da Singapura",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:45",
+      "name": "Singapura",
+      "country_code": "SGP"
+    }
+  },
+  {
+    "id": "sr:competition:668",
+    "name": "Taça AFC",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:669",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:45",
+      "name": "Singapura",
+      "country_code": "SGP"
+    }
+  },
+  {
+    "id": "sr:competition:671",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:296",
+      "name": "Arménia",
+      "country_code": "ARM"
+    }
+  },
+  {
+    "id": "sr:competition:672",
+    "name": "1ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:296",
+      "name": "Arménia",
+      "country_code": "ARM"
+    }
+  },
+  {
+    "id": "sr:competition:673",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:201",
+      "name": "Ilhas Faroé",
+      "country_code": "FRO"
+    }
+  },
+  {
+    "id": "sr:competition:674",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:201",
+      "name": "Ilhas Faroé",
+      "country_code": "FRO"
+    }
+  },
+  {
+    "id": "sr:competition:675",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:676",
+    "name": "1ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:160",
+      "name": "Lituânia",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "id": "sr:competition:677",
+    "name": "1ª Ligas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:163",
+      "name": "Letónia",
+      "country_code": "LVA"
+    }
+  },
+  {
+    "id": "sr:competition:678",
+    "name": "Esiliiga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:92",
+      "name": "Estónia",
+      "country_code": "EST"
+    }
+  },
+  {
+    "id": "sr:competition:679",
+    "name": "Liga Europa UEFA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:680",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:23",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:682",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:278",
+      "name": "Cazaquistão",
+      "country_code": "KAZ"
+    }
+  },
+  {
+    "id": "sr:competition:685",
+    "name": "Divisão Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:279",
+      "name": "República da Moldávia",
+      "country_code": "MDA"
+    }
+  },
+  {
+    "id": "sr:competition:686",
+    "name": "DFB Pokal Femininos",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:690",
+    "name": "Liga BGL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:197",
+      "name": "Luxemburgo",
+      "country_code": "LUX"
+    }
+  },
+  {
+    "id": "sr:competition:691",
+    "name": "Liga Persha",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:86",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:692",
+    "name": "2ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:102",
+      "name": "Chipre",
+      "country_code": "CYP"
+    }
+  },
+  {
+    "id": "sr:competition:695",
+    "name": "Campeonato Europeu Feminino Sub19",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:696",
+    "name": "Liga dos Campeões UEFA, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:698",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:77",
+      "name": "Roménia",
+      "country_code": "ROU"
+    }
+  },
+  {
+    "id": "sr:competition:699",
+    "name": "Liga Principal de Reservas",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:701",
+    "name": "Campeonato",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:130",
+      "name": "Irlanda do Norte",
+      "country_code": "NIR"
+    }
+  },
+  {
+    "id": "sr:competition:702",
+    "name": "Primeira Divisão da Liga Pais de Gales",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:131",
+      "name": "País de Gales",
+      "country_code": "WAL"
+    }
+  },
+  {
+    "id": "sr:competition:703",
+    "name": "Primeira Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:704",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:270",
+      "name": "Geórgia",
+      "country_code": "GEO"
+    }
+  },
+  {
+    "id": "sr:competition:705",
+    "name": "NB II Keleti",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:11",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:706",
+    "name": "NB II Nyugati",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:11",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:707",
+    "name": "2ª Divisão Este",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:78",
+      "name": "Bulgária",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "id": "sr:competition:708",
+    "name": "2ª Divisão Oeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:78",
+      "name": "Bulgária",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "id": "sr:competition:709",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:297",
+      "name": "Azerbaijão",
+      "country_code": "AZE"
+    }
+  },
+  {
+    "id": "sr:competition:710",
+    "name": "Divisão A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:279",
+      "name": "República da Moldávia",
+      "country_code": "MDA"
+    }
+  },
+  {
+    "id": "sr:competition:715",
+    "name": "Liga Prva, Rep.Srpska",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:158",
+      "name": "Bósnia & Herzegovina",
+      "country_code": "BIH"
+    }
+  },
+  {
+    "id": "sr:competition:716",
+    "name": "Liga Prva,Federacije BiH",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:158",
+      "name": "Bósnia & Herzegovina",
+      "country_code": "BIH"
+    }
+  },
+  {
+    "id": "sr:competition:717",
+    "name": "Liga Druga Crne Gore",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:386",
+      "name": "Montenegro",
+      "country_code": "MNE"
+    }
+  },
+  {
+    "id": "sr:competition:718",
+    "name": "Liga Vtora",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:159",
+      "name": "Macedónia do Norte",
+      "country_code": "MKD"
+    }
+  },
+  {
+    "id": "sr:competition:719",
+    "name": "Huws Gray Alliance",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:131",
+      "name": "País de Gales",
+      "country_code": "WAL"
+    }
+  },
+  {
+    "id": "sr:competition:720",
+    "name": "Primeira Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:257",
+      "name": "Albânia",
+      "country_code": "ALB"
+    }
+  },
+  {
+    "id": "sr:competition:721",
+    "name": "Liga Prva",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:152",
+      "name": "Sérvia",
+      "country_code": "SRB"
+    }
+  },
+  {
+    "id": "sr:competition:722",
+    "name": "Kategoria e Pare",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:257",
+      "name": "Albânia",
+      "country_code": "ALB"
+    }
+  },
+  {
+    "id": "sr:competition:723",
+    "name": "Promoção de Honra",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:197",
+      "name": "Luxemburgo",
+      "country_code": "LUX"
+    }
+  },
+  {
+    "id": "sr:competition:724",
+    "name": "2ª Liga Druga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:14",
+      "name": "Croácia",
+      "country_code": "HRV"
+    }
+  },
+  {
+    "id": "sr:competition:725",
+    "name": "Supertaça de Malta",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:134",
+      "name": "Malta",
+      "country_code": "MLT"
+    }
+  },
+  {
+    "id": "sr:competition:726",
+    "name": "Liga Nacional 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:270",
+      "name": "Geórgia",
+      "country_code": "GEO"
+    }
+  },
+  {
+    "id": "sr:competition:727",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:66",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:728",
+    "name": "Taça Setanta Sports",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:729",
+    "name": "Taça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:270",
+      "name": "Geórgia",
+      "country_code": "GEO"
+    }
+  },
+  {
+    "id": "sr:competition:731",
+    "name": "Taça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:92",
+      "name": "Estónia",
+      "country_code": "EST"
+    }
+  },
+  {
+    "id": "sr:competition:736",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:297",
+      "name": "Azerbaijão",
+      "country_code": "AZE"
+    }
+  },
+  {
+    "id": "sr:competition:737",
+    "name": "Taça Titano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:387",
+      "name": "São Marino",
+      "country_code": "SMR"
+    }
+  },
+  {
+    "id": "sr:competition:738",
+    "name": "Campeonato Sammarinese",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:387",
+      "name": "São Marino",
+      "country_code": "SMR"
+    }
+  },
+  {
+    "id": "sr:competition:739",
+    "name": "Taça Crne Gore",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:386",
+      "name": "Montenegro",
+      "country_code": "MNE"
+    }
+  },
+  {
+    "id": "sr:competition:740",
+    "name": "Taça do Azerbeijão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:297",
+      "name": "Azerbaijão",
+      "country_code": "AZE"
+    }
+  },
+  {
+    "id": "sr:competition:741",
+    "name": "Taça da Moldávia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:279",
+      "name": "República da Moldávia",
+      "country_code": "MDA"
+    }
+  },
+  {
+    "id": "sr:competition:742",
+    "name": "Primeira Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:376",
+      "name": "Andorra",
+      "country_code": "AND"
+    }
+  },
+  {
+    "id": "sr:competition:743",
+    "name": "Segunda Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:376",
+      "name": "Andorra",
+      "country_code": "AND"
+    }
+  },
+  {
+    "id": "sr:competition:746",
+    "name": "Campeonato Europeu Feminino Sub19, Qualificação",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:748",
+    "name": "Campeonato Europeu Sub19, Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:749",
+    "name": "Taça Kazaquistão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:278",
+      "name": "Cazaquistão",
+      "country_code": "KAZ"
+    }
+  },
+  {
+    "id": "sr:competition:753",
+    "name": "Campeonato Europeu Feminino Sub17, Qualificação",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:755",
+    "name": "Campeonato Europeu Sub17, Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:756",
+    "name": "Kupa e Shqiperise",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:257",
+      "name": "Albânia",
+      "country_code": "ALB"
+    }
+  },
+  {
+    "id": "sr:competition:757",
+    "name": "Taça FL1 Aktiv",
+    "category": {
+      "id": "sr:category:512",
+      "name": "Liechtenstein",
+      "country_code": "LIE"
+    }
+  },
+  {
+    "id": "sr:competition:761",
+    "name": "Taça da Letónia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:163",
+      "name": "Letónia",
+      "country_code": "LVA"
+    }
+  },
+  {
+    "id": "sr:competition:765",
+    "name": "Taça do Luxemburgo",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:197",
+      "name": "Luxemburgo",
+      "country_code": "LUX"
+    }
+  },
+  {
+    "id": "sr:competition:766",
+    "name": "Supertaça da Geórgia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:270",
+      "name": "Geórgia",
+      "country_code": "GEO"
+    }
+  },
+  {
+    "id": "sr:competition:767",
+    "name": "Taça JJB Sports Irish",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:130",
+      "name": "Irlanda do Norte",
+      "country_code": "NIR"
+    }
+  },
+  {
+    "id": "sr:competition:771",
+    "name": "Liga-V 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:366",
+      "name": "Vietname",
+      "country_code": "VNM"
+    }
+  },
+  {
+    "id": "sr:competition:772",
+    "name": "Superliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:385",
+      "name": "Uzbequistão",
+      "country_code": "UZB"
+    }
+  },
+  {
+    "id": "sr:competition:773",
+    "name": "Supertaça do Cazaquistao",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:278",
+      "name": "Cazaquistão",
+      "country_code": "KAZ"
+    }
+  },
+  {
+    "id": "sr:competition:775",
+    "name": "Supertaça da Bielorrússia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:91",
+      "name": "Bielorrússia",
+      "country_code": "BLR"
+    }
+  },
+  {
+    "id": "sr:competition:776",
+    "name": "Liga Pervaya",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:91",
+      "name": "Bielorrússia",
+      "country_code": "BLR"
+    }
+  },
+  {
+    "id": "sr:competition:777",
+    "name": "K-League 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:291",
+      "name": "República da Coreia",
+      "country_code": "KOR"
+    }
+  },
+  {
+    "id": "sr:competition:778",
+    "name": "Taça da Arménia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:296",
+      "name": "Arménia",
+      "country_code": "ARM"
+    }
+  },
+  {
+    "id": "sr:competition:779",
+    "name": "Taça das Ilhas Faroé",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:201",
+      "name": "Ilhas Faroé",
+      "country_code": "FRO"
+    }
+  },
+  {
+    "id": "sr:competition:780",
+    "name": "Campeonato do Mundo Feminino, Qualificação UEFA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:782",
+    "name": "Liga da China",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:99",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:785",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:278",
+      "name": "Cazaquistão",
+      "country_code": "KAZ"
+    }
+  },
+  {
+    "id": "sr:competition:786",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:799",
+    "name": "Supertaça da Alemanha",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:30",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:800",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:14",
+      "name": "Croácia",
+      "country_code": "HRV"
+    }
+  },
+  {
+    "id": "sr:competition:804",
+    "name": "Taça do Mundo Feminino Sub20",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:808",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:305",
+      "name": "Egito",
+      "country_code": "EGY"
+    }
+  },
+  {
+    "id": "sr:competition:809",
+    "name": "A-Juniores-Bundesliga Norte/Nordeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:810",
+    "name": "A-Juniores-Bundesliga Oeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:811",
+    "name": "A-Juniores-Bundesliga Sul/Sudoeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:812",
+    "name": "Taça LFF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:160",
+      "name": "Lituânia",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "id": "sr:competition:813",
+    "name": "Oberliga Niedersachsen",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:822",
+    "name": "1ª Divisão Sub19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:823",
+    "name": "1ª Liga, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:824",
+    "name": "Taça de Itália Série C",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:825",
+    "name": "Liga das Estrelas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:353",
+      "name": "Qatar",
+      "country_code": "QAT"
+    }
+  },
+  {
+    "id": "sr:competition:827",
+    "name": "Campeonato do Mundo Feminino Sub17",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:841",
+    "name": "Liga 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:304",
+      "name": "Argélia",
+      "country_code": "DZA"
+    }
+  },
+  {
+    "id": "sr:competition:842",
+    "name": "Campeonato WAFF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:846",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:351",
+      "name": "Bahrain",
+      "country_code": "BHR"
+    }
+  },
+  {
+    "id": "sr:competition:847",
+    "name": "Liga A2",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:848",
+    "name": "Liga-I",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:352",
+      "name": "India",
+      "country_code": "IND"
+    }
+  },
+  {
+    "id": "sr:competition:849",
+    "name": "Promessas Holandesas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:35",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:851",
+    "name": "Jogos Amigáveis Internacionais",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:852",
+    "name": "Jogos Amigáveis Internacionais Femininos",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:853",
+    "name": "Jogos Amigáveis de Clubes",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:854",
+    "name": "Jogos Amigáveis Sub21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:855",
+    "name": "Jogos Amigáveis Sub20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:856",
+    "name": "Jogos Amigáveis Sub19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:857",
+    "name": "Jogos Amigáveis Sub18",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:858",
+    "name": "Jogos Amigáveis Sub17",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:868",
+    "name": "2ª Divisão, Norte de Gotaland",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:878",
+    "name": "Campeonato Europeu Feminino, Qualificação",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:879",
+    "name": "Liga Júnior",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:880",
+    "name": "NASL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:881",
+    "name": "Taça Constitucional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:376",
+      "name": "Andorra",
+      "country_code": "AND"
+    }
+  },
+  {
+    "id": "sr:competition:882",
+    "name": "FA Taça da China",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:99",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:883",
+    "name": "Supertaça da 2ª Divisão",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:884",
+    "name": "Supertaça da Liga Pro",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:886",
+    "name": "Taça Audi",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:889",
+    "name": "Taça Telekom",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:30",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:890",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:279",
+      "name": "República da Moldávia",
+      "country_code": "MDA"
+    }
+  },
+  {
+    "id": "sr:competition:892",
+    "name": "Campeonato Sub-21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:86",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:912",
+    "name": "Supertaça",
+    "category": {
+      "id": "sr:category:159",
+      "name": "Macedónia do Norte",
+      "country_code": "MKD"
+    }
+  },
+  {
+    "id": "sr:competition:915",
+    "name": "Liga Pro",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:301",
+      "name": "Irão",
+      "country_code": "IRN"
+    }
+  },
+  {
+    "id": "sr:competition:917",
+    "name": "Campeonato Mundial Sub17",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:925",
+    "name": "Liga Nacional",
+    "category": {
+      "id": "sr:category:437",
+      "name": "Honduras",
+      "country_code": "HND"
+    }
+  },
+  {
+    "id": "sr:competition:929",
+    "name": "Liga da Jordãnia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:329",
+      "name": "Jordânia",
+      "country_code": "JOR"
+    }
+  },
+  {
+    "id": "sr:competition:937",
+    "name": "Botola",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:303",
+      "name": "Marrocos",
+      "country_code": "MAR"
+    }
+  },
+  {
+    "id": "sr:competition:939",
+    "name": "taça Coroa do Principe",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:331",
+      "name": "Kuwait",
+      "country_code": "KWT"
+    }
+  },
+  {
+    "id": "sr:competition:947",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:339",
+      "name": "Hong Kong, China",
+      "country_code": "HKG"
+    }
+  },
+  {
+    "id": "sr:competition:953",
+    "name": "Taça da Federação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:331",
+      "name": "Kuwait",
+      "country_code": "KWT"
+    }
+  },
+  {
+    "id": "sr:competition:955",
+    "name": "Liga Profissional Saudita",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:310",
+      "name": "Arábia Saudita",
+      "country_code": "SAU"
+    }
+  },
+  {
+    "id": "sr:competition:959",
+    "name": "Qualificação Olimpica CFA",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:965",
+    "name": "Liga Omã",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:415",
+      "name": "Omã",
+      "country_code": "OMN"
+    }
+  },
+  {
+    "id": "sr:competition:971",
+    "name": "Liga do Golfo Arábico",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:299",
+      "name": "Emiratos Árabes Unidos",
+      "country_code": "ARE"
+    }
+  },
+  {
+    "id": "sr:competition:981",
+    "name": "Campeonato CAF Sub23",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:984",
+    "name": "Liga 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:378",
+      "name": "Tunísia",
+      "country_code": "TUN"
+    }
+  },
+  {
+    "id": "sr:competition:1000",
+    "name": "Super Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:85",
+      "name": "Malásia",
+      "country_code": "MYS"
+    }
+  },
+  {
+    "id": "sr:competition:1002",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:331",
+      "name": "Kuwait",
+      "country_code": "KWT"
+    }
+  },
+  {
+    "id": "sr:competition:1006",
+    "name": "Primeira Elite",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:391",
+      "name": "Camarões",
+      "country_code": "CMR"
+    }
+  },
+  {
+    "id": "sr:competition:1008",
+    "name": "Taça do Sol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1015",
+    "name": "Liga 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:368",
+      "name": "Indonésia",
+      "country_code": "IDN"
+    }
+  },
+  {
+    "id": "sr:competition:1016",
+    "name": "Campeonato Sub-21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:155",
+      "name": "Suécia Amadores",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:1018",
+    "name": "Taça do Chipre, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1020",
+    "name": "Taça FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:322",
+      "name": "África do Sul",
+      "country_code": "ZAF"
+    }
+  },
+  {
+    "id": "sr:competition:1024",
+    "name": "Copa Argentina",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:1026",
+    "name": "Kakkonen, Etelainen",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:1032",
+    "name": "Liga 1 da Tailândia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:485",
+      "name": "Tailândia",
+      "country_code": "THA"
+    }
+  },
+  {
+    "id": "sr:competition:1044",
+    "name": "Super Liga Feminina FA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:1048",
+    "name": "Taça Spor Toto",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:46",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:1052",
+    "name": "Taça da Eslováquia S-18",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1054",
+    "name": "Liga dos Campeões da CAF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1058",
+    "name": "Taça da Suécia, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:1060",
+    "name": "Taça Báltica",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1062",
+    "name": "Taça NM, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:1072",
+    "name": "Jogos Amigáveis Sub-23",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1074",
+    "name": "Copa Libertadores Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1079",
+    "name": "Regionalliga Sudoeste",
+    "parent_id": "sr:competition:24664",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1083",
+    "name": "Regionalliga Nordeste",
+    "parent_id": "sr:competition:24664",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1085",
+    "name": "Regionalliga Bavaria",
+    "parent_id": "sr:competition:24664",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1087",
+    "name": "PFL, Este",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:1089",
+    "name": "5ª Liga Alemã, Norte",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1091",
+    "name": "5ª Liga Alemã, Sul",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1093",
+    "name": "PFL, Sul",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:1095",
+    "name": "PFL, Centro",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:1097",
+    "name": "PFL, Ural-Povolzhye",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:1099",
+    "name": "PFL, Oeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:1101",
+    "name": "Liga da Promoção",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:25",
+      "name": "Suíça",
+      "country_code": "CHE"
+    }
+  },
+  {
+    "id": "sr:competition:1103",
+    "name": "Oberliga Niederrhein",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1105",
+    "name": "Oberliga Mittelrhein",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1107",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:257",
+      "name": "Albânia",
+      "country_code": "ALB"
+    }
+  },
+  {
+    "id": "sr:competition:1109",
+    "name": "O-Liga Rheinl-Pfalz/Saar",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1111",
+    "name": "Liga Premier Norte, Divisão Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:1113",
+    "name": "Liga Fut. Sul, Div. Prem",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:1115",
+    "name": "Taça das Confederações da CAF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1117",
+    "name": "Liga Pro Sub-21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:33",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:1119",
+    "name": "Supertaça da Catalunha",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:1125",
+    "name": "MTN 8",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:322",
+      "name": "África do Sul",
+      "country_code": "ZAF"
+    }
+  },
+  {
+    "id": "sr:competition:1127",
+    "name": "Primeira Divisão",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:1129",
+    "name": "Liga Premier 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:1131",
+    "name": "L. de Fut Isthmian, Prem",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:1133",
+    "name": "Campeonato Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:1135",
+    "name": "2ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:78",
+      "name": "Bulgária",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "id": "sr:competition:1137",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:755",
+      "name": "Paquistão",
+      "country_code": "PAK"
+    }
+  },
+  {
+    "id": "sr:competition:1139",
+    "name": "Divisão 1 Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:1161",
+    "name": "Taça das Caraíbas",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1191",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:542",
+      "name": "Gana",
+      "country_code": "GHA"
+    }
+  },
+  {
+    "id": "sr:competition:1205",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:322",
+      "name": "África do Sul",
+      "country_code": "ZAF"
+    }
+  },
+  {
+    "id": "sr:competition:1211",
+    "name": "Ligue 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:390",
+      "name": "Costa do Marfim",
+      "country_code": "CIV"
+    }
+  },
+  {
+    "id": "sr:competition:1217",
+    "name": "Copa Centroamericana",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1221",
+    "name": "Taça do Chile",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:49",
+      "name": "Chile",
+      "country_code": "CHL"
+    }
+  },
+  {
+    "id": "sr:competition:1222",
+    "name": "Liga dos Campeões da OFC",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1224",
+    "name": "Liga de Inverno",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:1226",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:886",
+      "name": "Senegal",
+      "country_code": "SEN"
+    }
+  },
+  {
+    "id": "sr:competition:1230",
+    "name": "Torneios de Verão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1234",
+    "name": "Campeonato Paulista Série A2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:1236",
+    "name": "Super Taça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:366",
+      "name": "Vietname",
+      "country_code": "VNM"
+    }
+  },
+  {
+    "id": "sr:competition:1238",
+    "name": "Primeira B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:274",
+      "name": "Colômbia",
+      "country_code": "COL"
+    }
+  },
+  {
+    "id": "sr:competition:1240",
+    "name": "Primeira B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:49",
+      "name": "Chile",
+      "country_code": "CHL"
+    }
+  },
+  {
+    "id": "sr:competition:1244",
+    "name": "Séries NextGen",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1246",
+    "name": "Taça Viareggio",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1248",
+    "name": "Liga Premier de Brisbane",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1250",
+    "name": "Supertaça da CAF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1254",
+    "name": "Segunda Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:280",
+      "name": "Paraguai",
+      "country_code": "PRY"
+    }
+  },
+  {
+    "id": "sr:competition:1258",
+    "name": "NPL, Austrália do Sul",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1260",
+    "name": "Capital NPL 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1262",
+    "name": "Super Taça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:160",
+      "name": "Lituânia",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "id": "sr:competition:1266",
+    "name": "Super Taça",
+    "category": {
+      "id": "sr:category:163",
+      "name": "Letónia",
+      "country_code": "LVA"
+    }
+  },
+  {
+    "id": "sr:competition:1268",
+    "name": "NPL, Queensland",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1270",
+    "name": "NPL, Oeste da Austrália",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1274",
+    "name": "NSW NPL 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1275",
+    "name": "NPL, Victoria",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1279",
+    "name": "Liga Regional de Salzburgo",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:97",
+      "name": "Áustria Amadores",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:1281",
+    "name": "Brasileirão Série C",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:1295",
+    "name": "Taça Emirates",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1303",
+    "name": "Sub-21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:1307",
+    "name": "Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:86",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:1309",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:49",
+      "name": "Chile",
+      "country_code": "CHL"
+    }
+  },
+  {
+    "id": "sr:competition:1311",
+    "name": "Taça AME",
+    "category": {
+      "id": "sr:category:134",
+      "name": "Malta",
+      "country_code": "MLT"
+    }
+  },
+  {
+    "id": "sr:competition:1325",
+    "name": "Troféu Liga Premier Ásia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1327",
+    "name": "1. Liga Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:23",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:1335",
+    "name": "Copa Colômbia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:274",
+      "name": "Colômbia",
+      "country_code": "COL"
+    }
+  },
+  {
+    "id": "sr:competition:1337",
+    "name": "Taça dos Campeões Int.",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1339",
+    "name": "NB II",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:11",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:1343",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:387",
+      "name": "São Marino",
+      "country_code": "SMR"
+    }
+  },
+  {
+    "id": "sr:competition:1347",
+    "name": "Primeira B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:1365",
+    "name": "CLJ",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:1369",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:299",
+      "name": "Emiratos Árabes Unidos",
+      "country_code": "ARE"
+    }
+  },
+  {
+    "id": "sr:competition:1374",
+    "name": "Série D, Grupo A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1376",
+    "name": "Série D, Grupo B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1378",
+    "name": "Série D, Grupo C",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1380",
+    "name": "Série D, Grupo D",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1382",
+    "name": "Série D, Grupo E",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1384",
+    "name": "Série D, Grupo F",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1386",
+    "name": "Série D, Grupo G",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1388",
+    "name": "Série D, Grupo H",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1390",
+    "name": "Série D, Grupo I",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1434",
+    "name": "Taça de Marrocos",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:303",
+      "name": "Marrocos",
+      "country_code": "MAR"
+    }
+  },
+  {
+    "id": "sr:competition:1448",
+    "name": "3ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:1460",
+    "name": "3ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:102",
+      "name": "Chipre",
+      "country_code": "CYP"
+    }
+  },
+  {
+    "id": "sr:competition:1462",
+    "name": "Taça da 3ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:1464",
+    "name": "Liga Jovem UEFA",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1510",
+    "name": "Liga Premier Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1518",
+    "name": "Taça das Estrelas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:353",
+      "name": "Qatar",
+      "country_code": "QAT"
+    }
+  },
+  {
+    "id": "sr:competition:1530",
+    "name": "Camp. Fem CONCACAF S-17",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1542",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:938",
+      "name": "Gibraltar",
+      "country_code": "GIB"
+    }
+  },
+  {
+    "id": "sr:competition:1544",
+    "name": "Super Taça",
+    "category": {
+      "id": "sr:category:297",
+      "name": "Azerbaijão",
+      "country_code": "AZE"
+    }
+  },
+  {
+    "id": "sr:competition:1554",
+    "name": "Taça Primavera",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1568",
+    "name": "Campeonato CONCACAF Sub-20, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1588",
+    "name": "Taça da Argélia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:304",
+      "name": "Argélia",
+      "country_code": "DZA"
+    }
+  },
+  {
+    "id": "sr:competition:1592",
+    "name": "Taça da Premier League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:1594",
+    "name": "Taça V. Granatkin Sub-18",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1596",
+    "name": "Taça do Nordeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:1598",
+    "name": "Taça MX",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:1610",
+    "name": "Campeonato AFC Sub-22",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1612",
+    "name": "Campeonato CONMEBOL Sub-20, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1614",
+    "name": "Campeonato Paulista Série A3",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:1618",
+    "name": "Super Taça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:1620",
+    "name": "Taça de Inverno",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:163",
+      "name": "Letónia",
+      "country_code": "LVA"
+    }
+  },
+  {
+    "id": "sr:competition:1622",
+    "name": "Taça E.Ind C-Wealth S-21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1626",
+    "name": "NPL, Tasmânia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1630",
+    "name": "Taça Sun",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:1632",
+    "name": "Taça dos Presidentes FAI",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:51",
+      "name": "Irlanda",
+      "country_code": "IRL"
+    }
+  },
+  {
+    "id": "sr:competition:1634",
+    "name": "Taça Côroa do Príncipe",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:310",
+      "name": "Arábia Saudita",
+      "country_code": "SAU"
+    }
+  },
+  {
+    "id": "sr:competition:1638",
+    "name": "NPL, Norte de Nova País de Gales",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1644",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:805",
+      "name": "Quénia",
+      "country_code": "KEN"
+    }
+  },
+  {
+    "id": "sr:competition:1646",
+    "name": "Taça Desafio Carolina",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:1648",
+    "name": "Torneio do Inca",
+    "category": {
+      "id": "sr:category:20",
+      "name": "Perú",
+      "country_code": "PER"
+    }
+  },
+  {
+    "id": "sr:competition:1654",
+    "name": "Liga Futebol Filipinas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:847",
+      "name": "Ilhas Filipinas",
+      "country_code": "PHL"
+    }
+  },
+  {
+    "id": "sr:competition:1662",
+    "name": "Kansallinen Liiga, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:1682",
+    "name": "Taça da Tunisia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:378",
+      "name": "Tunísia",
+      "country_code": "TUN"
+    }
+  },
+  {
+    "id": "sr:competition:1690",
+    "name": "Liga Nacional de Futebol Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:1692",
+    "name": "Taça da Ásia de Futebol Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1696",
+    "name": "Taça FA, Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:1702",
+    "name": "Taça AFC Challenge",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1710",
+    "name": "Série D, Playoffs Prom.",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1722",
+    "name": "Taça da J.League/Taça Sudamericana Camp. Final",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1754",
+    "name": "Supertaça MX",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:1772",
+    "name": "Liga-WK",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:291",
+      "name": "República da Coreia",
+      "country_code": "KOR"
+    }
+  },
+  {
+    "id": "sr:competition:1778",
+    "name": "Taça da Liga Romena",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:77",
+      "name": "Roménia",
+      "country_code": "ROU"
+    }
+  },
+  {
+    "id": "sr:competition:1782",
+    "name": "Liga de Desenvolvimento",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:1786",
+    "name": "Taça FFA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1790",
+    "name": "Taça de Honra",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:1794",
+    "name": "MLS Jogo All-Star",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:1802",
+    "name": "Liga Sub-21",
+    "category": {
+      "id": "sr:category:78",
+      "name": "Bulgária",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "id": "sr:competition:1806",
+    "name": "Taça Sub-19 CEE",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1822",
+    "name": "Taça da Jordânia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:329",
+      "name": "Jordânia",
+      "country_code": "JOR"
+    }
+  },
+  {
+    "id": "sr:competition:1846",
+    "name": "Super Lig Sub-21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:1848",
+    "name": "Taça das Nações Africanas, Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1850",
+    "name": "J Amigáveis Sub-19, Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1862",
+    "name": "Jogos Asiáticos",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1890",
+    "name": "Campeonato AFC Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1892",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:502",
+      "name": "Jamaica",
+      "country_code": "JAM"
+    }
+  },
+  {
+    "id": "sr:competition:1894",
+    "name": "A-League, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1900",
+    "name": "Super Liga da India",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:352",
+      "name": "India",
+      "country_code": "IND"
+    }
+  },
+  {
+    "id": "sr:competition:1904",
+    "name": "Taça da Liga FA",
+    "category": {
+      "id": "sr:category:847",
+      "name": "Ilhas Filipinas",
+      "country_code": "PHL"
+    }
+  },
+  {
+    "id": "sr:competition:1906",
+    "name": "Pr. Div. Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:322",
+      "name": "África do Sul",
+      "country_code": "ZAF"
+    }
+  },
+  {
+    "id": "sr:competition:1908",
+    "name": "Segunda Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:57",
+      "name": "Uruguai",
+      "country_code": "URY"
+    }
+  },
+  {
+    "id": "sr:competition:1910",
+    "name": "Supertaça Primavera",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1924",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:296",
+      "name": "Arménia",
+      "country_code": "ARM"
+    }
+  },
+  {
+    "id": "sr:competition:1930",
+    "name": "Troféu Berlusconi",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:1954",
+    "name": "Campeonato Feminino da CONCACAF",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1991",
+    "name": "Troféu FA, Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:2032",
+    "name": "Taça do Sultão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:415",
+      "name": "Omã",
+      "country_code": "OMN"
+    }
+  },
+  {
+    "id": "sr:competition:2043",
+    "name": "Camp. CONMEBOL Sub-17",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2053",
+    "name": "Taça do Líbano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:428",
+      "name": "Líbano",
+      "country_code": "LBN"
+    }
+  },
+  {
+    "id": "sr:competition:2075",
+    "name": "Taça do Egito",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:305",
+      "name": "Egito",
+      "country_code": "EGY"
+    }
+  },
+  {
+    "id": "sr:competition:2090",
+    "name": "Liga Premier 1, Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:2094",
+    "name": "J.League 3",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:2104",
+    "name": "Taça da Liga A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:2108",
+    "name": "Taça das Nações Africanas Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2110",
+    "name": "Taça Kings",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:310",
+      "name": "Arábia Saudita",
+      "country_code": "SAU"
+    }
+  },
+  {
+    "id": "sr:competition:2112",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:532",
+      "name": "Nigéria",
+      "country_code": "NGA"
+    }
+  },
+  {
+    "id": "sr:competition:2114",
+    "name": "Camp. CONCACAF Sub-17",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2142",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:812",
+      "name": "Zâmbia",
+      "country_code": "ZMB"
+    }
+  },
+  {
+    "id": "sr:competition:2152",
+    "name": "Camp. AFC Sub-23, Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2161",
+    "name": "Taça COSAFA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2171",
+    "name": "Girabola",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:500",
+      "name": "Angola",
+      "country_code": "AGO"
+    }
+  },
+  {
+    "id": "sr:competition:2177",
+    "name": "Taça FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:542",
+      "name": "Gana",
+      "country_code": "GHA"
+    }
+  },
+  {
+    "id": "sr:competition:2183",
+    "name": "Torneio de Toulon Sub.23",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2191",
+    "name": "Camp. Fem. AFC Sub-19",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2242",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:66",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:2244",
+    "name": "Troféu do Cam. dos Camp.",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:2268",
+    "name": "Super Liga, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:33",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:2270",
+    "name": "Eridivisie, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:35",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:2276",
+    "name": "Troféu Joan Gamper",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2296",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:310",
+      "name": "Arábia Saudita",
+      "country_code": "SAU"
+    }
+  },
+  {
+    "id": "sr:competition:2298",
+    "name": "Divisão 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:310",
+      "name": "Arábia Saudita",
+      "country_code": "SAU"
+    }
+  },
+  {
+    "id": "sr:competition:2306",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:299",
+      "name": "Emiratos Árabes Unidos",
+      "country_code": "ARE"
+    }
+  },
+  {
+    "id": "sr:competition:2322",
+    "name": "2. Bundesliga, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:2324",
+    "name": "UEFA Liga Jovem",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2332",
+    "name": "Jogos Africanos",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2340",
+    "name": "Campeonato Primavera",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:2342",
+    "name": "Liga West Bank",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:540",
+      "name": "Palestina",
+      "country_code": "PSE"
+    }
+  },
+  {
+    "id": "sr:competition:2344",
+    "name": "Liga Premier da Faixa de Gaza",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:540",
+      "name": "Palestina",
+      "country_code": "PSE"
+    }
+  },
+  {
+    "id": "sr:competition:2374",
+    "name": "Campeonato WAFF Sub-23",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2376",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:428",
+      "name": "Líbano",
+      "country_code": "LBN"
+    }
+  },
+  {
+    "id": "sr:competition:2386",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:428",
+      "name": "Líbano",
+      "country_code": "LBN"
+    }
+  },
+  {
+    "id": "sr:competition:2430",
+    "name": "Campeonato AFC Sub-23",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2436",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:803",
+      "name": "República da Tanzânia",
+      "country_code": "TZA"
+    }
+  },
+  {
+    "id": "sr:competition:2438",
+    "name": "Campeonato SAFF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2462",
+    "name": "Taça do Rei do Bahrain",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:351",
+      "name": "Bahrain",
+      "country_code": "BHR"
+    }
+  },
+  {
+    "id": "sr:competition:2468",
+    "name": "Primeira Liga do Brasil",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:2494",
+    "name": "Qualificação Olímpica CONCACAF, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2496",
+    "name": "Torneio Olimpico Feminino, Qualificação UEFA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2505",
+    "name": "Taça de Futebol Feminino SheBelieves",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2511",
+    "name": "Supertaça FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:99",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:2513",
+    "name": "Taça dos Presidentes",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:299",
+      "name": "Emiratos Árabes Unidos",
+      "country_code": "ARE"
+    }
+  },
+  {
+    "id": "sr:competition:2515",
+    "name": "Torneio Olímpico AFC, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2529",
+    "name": "Liga Nadeshiko, Div 1, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:2531",
+    "name": "CONCACAF/CONMEBOL QO",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:2537",
+    "name": "Taça do Vietname",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:366",
+      "name": "Vietname",
+      "country_code": "VNM"
+    }
+  },
+  {
+    "id": "sr:competition:2539",
+    "name": "Campeonato Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:155",
+      "name": "Suécia Amadores",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:13635",
+    "name": "Liga Premier, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:21",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:13681",
+    "name": "Campeonato do Canadá",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:388",
+      "name": "Canadá",
+      "country_code": "CAN"
+    }
+  },
+  {
+    "id": "sr:competition:13685",
+    "name": "Campeonato Brasileiro Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:13687",
+    "name": "Liga Unida de Futebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:13997",
+    "name": "Supertaça do Peru",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:20",
+      "name": "Perú",
+      "country_code": "PER"
+    }
+  },
+  {
+    "id": "sr:competition:14043",
+    "name": "Taça da Liga, Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:66",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:14045",
+    "name": "Taça da Liga, Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:66",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:14145",
+    "name": "Taça Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:390",
+      "name": "Costa do Marfim",
+      "country_code": "CIV"
+    }
+  },
+  {
+    "id": "sr:competition:14147",
+    "name": "MSFL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:14151",
+    "name": "CFL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:18",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:14189",
+    "name": "Superliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:565",
+      "name": "Kosovo",
+      "country_code": "KOS"
+    }
+  },
+  {
+    "id": "sr:competition:14191",
+    "name": "Super Liga Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:14193",
+    "name": "Divisão de Elite, Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:8",
+      "name": "Dinamarca",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:14197",
+    "name": "Bundesliga, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:97",
+      "name": "Áustria Amadores",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:14229",
+    "name": "S. da Dinamarca, Grupo 4",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:95",
+      "name": "Dinamarca Amadores",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:14231",
+    "name": "Primeira Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:565",
+      "name": "Kosovo",
+      "country_code": "KOS"
+    }
+  },
+  {
+    "id": "sr:competition:14321",
+    "name": "Ligue 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:304",
+      "name": "Argélia",
+      "country_code": "DZA"
+    }
+  },
+  {
+    "id": "sr:competition:14413",
+    "name": "Taça do Brasil Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:14604",
+    "name": "Campeonato Africano de Futebol Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:14688",
+    "name": "Taça Kosovo FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:565",
+      "name": "Kosovo",
+      "country_code": "KOS"
+    }
+  },
+  {
+    "id": "sr:competition:14758",
+    "name": "Campeonato de Portugal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:14800",
+    "name": "Taça da Flórida",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:14864",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:824",
+      "name": "Uganda",
+      "country_code": "UGA"
+    }
+  },
+  {
+    "id": "sr:competition:14868",
+    "name": "J-League Taça Ano Novo",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:14876",
+    "name": "Copa Verde",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:15027",
+    "name": "Série B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:165",
+      "name": "Equador",
+      "country_code": "ECU"
+    }
+  },
+  {
+    "id": "sr:competition:15091",
+    "name": "Campeonato Brasileiro, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:15123",
+    "name": "Liga K3",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:291",
+      "name": "República da Coreia",
+      "country_code": "KOR"
+    }
+  },
+  {
+    "id": "sr:competition:15219",
+    "name": "Taça FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:339",
+      "name": "Hong Kong, China",
+      "country_code": "HKG"
+    }
+  },
+  {
+    "id": "sr:competition:15227",
+    "name": "Campeonato Alagoano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:15231",
+    "name": "Campeonato Paraibano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:15235",
+    "name": "Segunda Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:20",
+      "name": "Perú",
+      "country_code": "PER"
+    }
+  },
+  {
+    "id": "sr:competition:15257",
+    "name": "Campeonato Sergipano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:15279",
+    "name": "Ursvalsdeild, Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:15281",
+    "name": "Campeonato Paulista Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:15283",
+    "name": "2. Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:15285",
+    "name": "Liga de Desenv. Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:15327",
+    "name": "Taça da Federação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:352",
+      "name": "India",
+      "country_code": "IND"
+    }
+  },
+  {
+    "id": "sr:competition:15335",
+    "name": "Brasileirão Série D",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:15636",
+    "name": "Liga da China 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:99",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:15644",
+    "name": "Taça Paulista",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:16356",
+    "name": "Taça do Rei",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:16358",
+    "name": "Liga Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:16668",
+    "name": "Torneio das Nações de Futebol Feminino",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:16918",
+    "name": "Liga CONCACAF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:17314",
+    "name": "1. Liga S21",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:17504",
+    "name": "Terceira Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:18188",
+    "name": "Ekstraklasa, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:18204",
+    "name": "1. Divisão, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:18270",
+    "name": "NPL Queensland, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:18340",
+    "name": "NPL, Austrália do Sul, Liga Premier Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:18364",
+    "name": "Taça de França, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:19202",
+    "name": "Campeonato Primavera 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:19224",
+    "name": "Divisão 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:339",
+      "name": "Hong Kong, China",
+      "country_code": "HKG"
+    }
+  },
+  {
+    "id": "sr:competition:19226",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:85",
+      "name": "Malásia",
+      "country_code": "MYS"
+    }
+  },
+  {
+    "id": "sr:competition:19232",
+    "name": "Liga 2 da Tailândia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:485",
+      "name": "Tailândia",
+      "country_code": "THA"
+    }
+  },
+  {
+    "id": "sr:competition:19238",
+    "name": "Divisão 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:299",
+      "name": "Emiratos Árabes Unidos",
+      "country_code": "ARE"
+    }
+  },
+  {
+    "id": "sr:competition:19242",
+    "name": "Divisão Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:389",
+      "name": "Nicarágua",
+      "country_code": "NIC"
+    }
+  },
+  {
+    "id": "sr:competition:19246",
+    "name": "1. Liga Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:23",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:19248",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:790",
+      "name": "Myanmar",
+      "country_code": "MMR"
+    }
+  },
+  {
+    "id": "sr:competition:19250",
+    "name": "Liga Premier do Cambodja",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:852",
+      "name": "Cambodja",
+      "country_code": "KHM"
+    }
+  },
+  {
+    "id": "sr:competition:19252",
+    "name": "Pro Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:527",
+      "name": "Trinidade e Tobago",
+      "country_code": "TTO"
+    }
+  },
+  {
+    "id": "sr:competition:19262",
+    "name": "Liga Premier de Brisbane, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:19264",
+    "name": "Super Liga Chinesa, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:99",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:19266",
+    "name": "NB I, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:11",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:19272",
+    "name": "1ª Divisão, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:19274",
+    "name": "Liga Feminina Alianz",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:19276",
+    "name": "Taça da Islândia, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:19278",
+    "name": "Jogos Asiát. Sudes. S22",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:19282",
+    "name": "Taça da Venezuela",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:281",
+      "name": "Venezuela",
+      "country_code": "VEN"
+    }
+  },
+  {
+    "id": "sr:competition:19454",
+    "name": "Liga de Ascenso",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:289",
+      "name": "Costa Rica",
+      "country_code": "CRI"
+    }
+  },
+  {
+    "id": "sr:competition:19496",
+    "name": "Botola 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:303",
+      "name": "Marrocos",
+      "country_code": "MAR"
+    }
+  },
+  {
+    "id": "sr:competition:19724",
+    "name": "2ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:351",
+      "name": "Bahrain",
+      "country_code": "BHR"
+    }
+  },
+  {
+    "id": "sr:competition:19870",
+    "name": "Taça Hazfi",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:301",
+      "name": "Irão",
+      "country_code": "IRN"
+    }
+  },
+  {
+    "id": "sr:competition:20096",
+    "name": "Supertaça da Costa Marfim",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:390",
+      "name": "Costa do Marfim",
+      "country_code": "CIV"
+    }
+  },
+  {
+    "id": "sr:competition:20162",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:951",
+      "name": "Ruanda",
+      "country_code": "RWA"
+    }
+  },
+  {
+    "id": "sr:competition:20178",
+    "name": "Copa Libertadores Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:20226",
+    "name": "Super Liga, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:20434",
+    "name": "Campeonato do Mundo, Playoffs de Apuramento",
+    "parent_id": "sr:competition:24660",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:20574",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:804",
+      "name": "Botswana",
+      "country_code": "BWA"
+    }
+  },
+  {
+    "id": "sr:competition:20578",
+    "name": "Liga 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:378",
+      "name": "Tunísia",
+      "country_code": "TUN"
+    }
+  },
+  {
+    "id": "sr:competition:20780",
+    "name": "Super Taça da Argélia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:304",
+      "name": "Argélia",
+      "country_code": "DZA"
+    }
+  },
+  {
+    "id": "sr:competition:20782",
+    "name": "Divisão 2, Play. Promoção",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:20808",
+    "name": "Serie A, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:23455",
+    "name": "Taça da Super Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:274",
+      "name": "Colômbia",
+      "country_code": "COL"
+    }
+  },
+  {
+    "id": "sr:competition:23479",
+    "name": "Liga de Futebol Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:815",
+      "name": "Zimbabué",
+      "country_code": "ZWE"
+    }
+  },
+  {
+    "id": "sr:competition:23517",
+    "name": "Taça São Paulo de Juniores Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:23551",
+    "name": "Liga Azadegan",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:301",
+      "name": "Irão",
+      "country_code": "IRN"
+    }
+  },
+  {
+    "id": "sr:competition:23745",
+    "name": "Taça da FA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:85",
+      "name": "Malásia",
+      "country_code": "MYS"
+    }
+  },
+  {
+    "id": "sr:competition:23755",
+    "name": "Liga das Nações UEFA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:23785",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:898",
+      "name": "Republica do Congo",
+      "country_code": "COG"
+    }
+  },
+  {
+    "id": "sr:competition:23803",
+    "name": "Taça do Atlântico",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:23979",
+    "name": "Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:66",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:24073",
+    "name": "1ª Divisão da Jordânia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:329",
+      "name": "Jordânia",
+      "country_code": "JOR"
+    }
+  },
+  {
+    "id": "sr:competition:24197",
+    "name": "Super Taça da India",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:352",
+      "name": "India",
+      "country_code": "IND"
+    }
+  },
+  {
+    "id": "sr:competition:24359",
+    "name": "Campeonato Maranhense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:24636",
+    "name": "2ª Divisão Grupo 2",
+    "parent_id": "sr:competition:48",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24638",
+    "name": "2ª Divisão Grupo 1",
+    "parent_id": "sr:competition:48",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24640",
+    "name": "2ª Divisão Play-Offs",
+    "parent_id": "sr:competition:48",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24642",
+    "name": "3ª Divisão Grupo 1",
+    "parent_id": "sr:competition:15205",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24644",
+    "name": "3ª Divisão Grupo 2",
+    "parent_id": "sr:competition:15205",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24646",
+    "name": "3ª Divisão Grupo 3",
+    "parent_id": "sr:competition:15205",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24648",
+    "name": "3ª Divisão Grupo 4",
+    "parent_id": "sr:competition:15205",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24650",
+    "name": "3ª Divisão Grupo 5",
+    "parent_id": "sr:competition:15205",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24652",
+    "name": "3ª Divisão Grupo 6",
+    "parent_id": "sr:competition:15205",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24654",
+    "name": "2ª Divisão Grupo 3",
+    "parent_id": "sr:competition:48",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24656",
+    "name": "2ª Divisão Grupo 4",
+    "parent_id": "sr:competition:48",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:5",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:24662",
+    "name": "Liga Regional, Play-Offs",
+    "parent_id": "sr:competition:24664",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:24702",
+    "name": "A-Juniores-Bundesliga Play-Offs",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:24864",
+    "name": "Taça de SM La Reina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:24990",
+    "name": "Taça Intercontinental",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:25071",
+    "name": "Brasileiro Sub-23",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:25615",
+    "name": "Sub-18 CLJ",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:25657",
+    "name": "Taça Emir",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:331",
+      "name": "Kuwait",
+      "country_code": "KWT"
+    }
+  },
+  {
+    "id": "sr:competition:25669",
+    "name": "Taça Int. Camp. Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:25729",
+    "name": "Jogos Centro-Americanos e do Caribe Femininos",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:25731",
+    "name": "Jogos Centro-Americanos e do Caribe",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:25835",
+    "name": "III Liga, Grupo 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:25837",
+    "name": "III Liga, Grupo 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:25839",
+    "name": "III Liga, Grupo 3",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:25841",
+    "name": "III Liga, Grupo 4",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:47",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:25867",
+    "name": "Super 8",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:824",
+      "name": "Uganda",
+      "country_code": "UGA"
+    }
+  },
+  {
+    "id": "sr:competition:26006",
+    "name": "Jogos Asiáticos Femininos",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:26018",
+    "name": "Terceira Divisão, Grupo 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26020",
+    "name": "Terceira Divisão, Grupo 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26022",
+    "name": "Terceira Divisão, Grupo 3",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26024",
+    "name": "Terceira Divisão, Grupo 4",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26026",
+    "name": "Terceira Divisão, Grupo 5",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26028",
+    "name": "Terceira Divisão, Grupo 6",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26030",
+    "name": "Terceira Divisão, Grupo 7",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26032",
+    "name": "Terceira Divisão, Grupo 8",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26034",
+    "name": "Terceira Divisão, Grupo 9",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26036",
+    "name": "Terceira Divisão, Grupo 10",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26038",
+    "name": "Terceira Divisão, Grupo 11",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26040",
+    "name": "Terceira Divisão, Grupo 12",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26042",
+    "name": "Terceira Divisão, Grupo 13",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26044",
+    "name": "Terceira Divisão, Grupo 14",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26046",
+    "name": "Terceira Divisão, Grupo 15",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26048",
+    "name": "Terceira Divisão, Grupo 16",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26050",
+    "name": "Terceira Divisão, Grupo 17",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26052",
+    "name": "Terceira Divisão, Grupo 18",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:421",
+      "name": "Espanha Amadores",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:26056",
+    "name": "Liga de Futebol do Sul, DP Central",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:26058",
+    "name": "Liga de Futebol do Sul, DP Sul",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:26080",
+    "name": "Liga Revelação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:26174",
+    "name": "Primeira C",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:26176",
+    "name": "NCAA, Época Regular",
+    "parent_id": "sr:competition:34226",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:26178",
+    "name": "NCAA, Feminino",
+    "parent_id": "sr:competition:34230",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:26248",
+    "name": "Liga de Reservas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:22",
+      "name": "Escócia",
+      "country_code": "SCO"
+    }
+  },
+  {
+    "id": "sr:competition:26276",
+    "name": "Campeonato Nacional Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:7",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:26278",
+    "name": "Segunda Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:35",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:26280",
+    "name": "Taça DFB de Juniores",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:122",
+      "name": "Alemanha Amadores",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:26384",
+    "name": "Super Liga Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26386",
+    "name": "3ª Liga Grupo 1",
+    "parent_id": "sr:competition:945",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:26388",
+    "name": "3ª Liga Grupo 2",
+    "parent_id": "sr:competition:945",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:26390",
+    "name": "3ª Liga Grupo 3",
+    "parent_id": "sr:competition:945",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:26552",
+    "name": "Taça dos Campeões",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:26554",
+    "name": "Série C, Grupo A",
+    "parent_id": "sr:competition:26562",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:26556",
+    "name": "Série C, Grupo B",
+    "parent_id": "sr:competition:26562",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:26558",
+    "name": "Série C, Grupo C",
+    "parent_id": "sr:competition:26562",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:26560",
+    "name": "Série C, Play-Offs de Promoção",
+    "parent_id": "sr:competition:26562",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:26714",
+    "name": "3ª Liga, Grupo 8",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26716",
+    "name": "3ª Liga, Grupo 7",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26718",
+    "name": "3ª Liga, Grupo 6",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26720",
+    "name": "3ª Liga, Grupo 5",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26722",
+    "name": "3ª Liga, Grupo 4",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26724",
+    "name": "3ª Liga, Grupo 3",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26726",
+    "name": "3ª Liga, Grupo 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26728",
+    "name": "Eliminatórias",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:26910",
+    "name": "Play-Offs Kakkonen",
+    "category": {
+      "id": "sr:category:19",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:27070",
+    "name": "Primeira A, Abertura",
+    "parent_id": "sr:competition:241",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:274",
+      "name": "Colômbia",
+      "country_code": "COL"
+    }
+  },
+  {
+    "id": "sr:competition:27072",
+    "name": "Primeira A, Encerramento",
+    "parent_id": "sr:competition:241",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:274",
+      "name": "Colômbia",
+      "country_code": "COL"
+    }
+  },
+  {
+    "id": "sr:competition:27088",
+    "name": "Primeira Divisão, Abertura",
+    "parent_id": "sr:competition:1081",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:367",
+      "name": "El Salvador",
+      "country_code": "SLV"
+    }
+  },
+  {
+    "id": "sr:competition:27090",
+    "name": "Primeira Divisão, Encerramento",
+    "parent_id": "sr:competition:1081",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:367",
+      "name": "El Salvador",
+      "country_code": "SLV"
+    }
+  },
+  {
+    "id": "sr:competition:27092",
+    "name": "Primeira Divisão, Abertura",
+    "parent_id": "sr:competition:84",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:289",
+      "name": "Costa Rica",
+      "country_code": "CRI"
+    }
+  },
+  {
+    "id": "sr:competition:27094",
+    "name": "Primeira Divisão, Encerramento",
+    "parent_id": "sr:competition:84",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:289",
+      "name": "Costa Rica",
+      "country_code": "CRI"
+    }
+  },
+  {
+    "id": "sr:competition:27098",
+    "name": "Primeira Divisão, Abertura",
+    "parent_id": "sr:competition:693",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:280",
+      "name": "Paraguai",
+      "country_code": "PRY"
+    }
+  },
+  {
+    "id": "sr:competition:27100",
+    "name": "Primeira Divisão, Encerramento",
+    "parent_id": "sr:competition:693",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:280",
+      "name": "Paraguai",
+      "country_code": "PRY"
+    }
+  },
+  {
+    "id": "sr:competition:27102",
+    "name": "Liga Panamiana de Futebol, Abertura",
+    "parent_id": "sr:competition:1834",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:526",
+      "name": "Panamá",
+      "country_code": "PAN"
+    }
+  },
+  {
+    "id": "sr:competition:27104",
+    "name": "Liga Panamiana de Futebol, Encerramento",
+    "parent_id": "sr:competition:1834",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:526",
+      "name": "Panamá",
+      "country_code": "PAN"
+    }
+  },
+  {
+    "id": "sr:competition:27214",
+    "name": "Primeira Divisão de Reservas, Abertura",
+    "parent_id": "sr:competition:14087",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:280",
+      "name": "Paraguai",
+      "country_code": "PRY"
+    }
+  },
+  {
+    "id": "sr:competition:27216",
+    "name": "Primeira Divisão de Reservas, Encerramento",
+    "parent_id": "sr:competition:14087",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:280",
+      "name": "Paraguai",
+      "country_code": "PRY"
+    }
+  },
+  {
+    "id": "sr:competition:27252",
+    "name": "Divisão de Reservas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:339",
+      "name": "Hong Kong, China",
+      "country_code": "HKG"
+    }
+  },
+  {
+    "id": "sr:competition:27362",
+    "name": "Campeonato do Mundo, Playoffs de Apuramento Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:27382",
+    "name": "Liga de Ascenso, Abertura",
+    "parent_id": "sr:competition:697",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:27384",
+    "name": "Liga de Ascenso, Encerramento",
+    "parent_id": "sr:competition:697",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:27396",
+    "name": "Liga Nacional, Abertura",
+    "parent_id": "sr:competition:177",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:365",
+      "name": "Guatemala",
+      "country_code": "GTM"
+    }
+  },
+  {
+    "id": "sr:competition:27398",
+    "name": "Liga Nacional, Encerramento",
+    "parent_id": "sr:competition:177",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:365",
+      "name": "Guatemala",
+      "country_code": "GTM"
+    }
+  },
+  {
+    "id": "sr:competition:27412",
+    "name": "Divisão 1, Despromoção/Promoção",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:9",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:27414",
+    "name": "Liga Nacional, Abertura",
+    "parent_id": "sr:competition:925",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:437",
+      "name": "Honduras",
+      "country_code": "HND"
+    }
+  },
+  {
+    "id": "sr:competition:27416",
+    "name": "Liga Nacional, Encerramento",
+    "parent_id": "sr:competition:925",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:437",
+      "name": "Honduras",
+      "country_code": "HND"
+    }
+  },
+  {
+    "id": "sr:competition:27420",
+    "name": "Liga das Nações CONCACAF",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:27462",
+    "name": "Taça da Federação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:27464",
+    "name": "Liga MX, Abertura",
+    "parent_id": "sr:competition:352",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:27466",
+    "name": "Primeira Divisão, Encerramento",
+    "parent_id": "sr:competition:352",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:27518",
+    "name": "Primeira Divisão, Abertura",
+    "parent_id": "sr:competition:244",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:49",
+      "name": "Chile",
+      "country_code": "CHL"
+    }
+  },
+  {
+    "id": "sr:competition:27520",
+    "name": "Primeira Divisão, Encerramento",
+    "parent_id": "sr:competition:244",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:49",
+      "name": "Chile",
+      "country_code": "CHL"
+    }
+  },
+  {
+    "id": "sr:competition:27524",
+    "name": "Copa Internacional Ipiranga Sub-20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27633",
+    "name": "Y-League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:34",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:27659",
+    "name": "Taça da Liga Feminino FA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:27665",
+    "name": "Primeira Divisão",
+    "parent_id": "sr:competition:244",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:49",
+      "name": "Chile",
+      "country_code": "CHL"
+    }
+  },
+  {
+    "id": "sr:competition:27725",
+    "name": "Taça FA, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:27739",
+    "name": "Campeonato Potiguar",
+    "parent_id": "sr:competition:14880",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27741",
+    "name": "Campeonato Potiguar, 2ª Fase",
+    "parent_id": "sr:competition:14880",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27747",
+    "name": "Campeonato Mato-Grossense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27749",
+    "name": "Campeonato Paraense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27765",
+    "name": "Liga de Ascenso, Encerramento",
+    "parent_id": "sr:competition:19454",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:289",
+      "name": "Costa Rica",
+      "country_code": "CRI"
+    }
+  },
+  {
+    "id": "sr:competition:27767",
+    "name": "Liga de Ascenso, Abertura",
+    "parent_id": "sr:competition:19454",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:289",
+      "name": "Costa Rica",
+      "country_code": "CRI"
+    }
+  },
+  {
+    "id": "sr:competition:27799",
+    "name": "Torneio Feminino das Quatro Nações",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:27811",
+    "name": "Campeonato Sul-Mato-Grossense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27819",
+    "name": "Campeonato Piauiense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27821",
+    "name": "Liga Premier",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:469",
+      "name": "Bangladesh",
+      "country_code": "BGD"
+    }
+  },
+  {
+    "id": "sr:competition:27851",
+    "name": "Campeonato Brasiliense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27869",
+    "name": "Divisão Profissional, Abertura",
+    "parent_id": "sr:competition:866",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:379",
+      "name": "Bolívia",
+      "country_code": "BOL"
+    }
+  },
+  {
+    "id": "sr:competition:27871",
+    "name": "Divisão Profissional, Encerramento",
+    "parent_id": "sr:competition:866",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:379",
+      "name": "Bolívia",
+      "country_code": "BOL"
+    }
+  },
+  {
+    "id": "sr:competition:27983",
+    "name": "Campeonato Amazonense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:27999",
+    "name": "Supertaça do Uruguai",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:57",
+      "name": "Uruguai",
+      "country_code": "URY"
+    }
+  },
+  {
+    "id": "sr:competition:28049",
+    "name": "Taça da Liga A, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:28059",
+    "name": "Taça West Bank",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:540",
+      "name": "Palestina",
+      "country_code": "PSE"
+    }
+  },
+  {
+    "id": "sr:competition:28097",
+    "name": "Campeonato Potiguar, Grande Final",
+    "parent_id": "sr:competition:14880",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:28127",
+    "name": "Taça de Itália, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:28163",
+    "name": "Campeonato USL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:28165",
+    "name": "USL League One",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:28345",
+    "name": "Taça Viareggio, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:28424",
+    "name": "Liga de Futebol Premier Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:28432",
+    "name": "Liga Premier do Canadá",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:388",
+      "name": "Canadá",
+      "country_code": "CAN"
+    }
+  },
+  {
+    "id": "sr:competition:28472",
+    "name": "Taça da Faixa de Gaza",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:540",
+      "name": "Palestina",
+      "country_code": "PSE"
+    }
+  },
+  {
+    "id": "sr:competition:28538",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:28621",
+    "name": "Super Taça da Islândia, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:28673",
+    "name": "Liga de Futebol do Sul, Play-Offs do Campeonato",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:28735",
+    "name": "Taça Revelação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:28743",
+    "name": "USL League Two",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:28837",
+    "name": "Série C, Play-Offs de Despromoção",
+    "parent_id": "sr:competition:26562",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:31",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:28879",
+    "name": "3ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:10",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:28953",
+    "name": "Liga MX, Feminino, Abertura",
+    "parent_id": "sr:competition:23441",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:28955",
+    "name": "Liga MX, Feminino, Encerramento",
+    "parent_id": "sr:competition:23441",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:12",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:29003",
+    "name": "Taça do Paraguai",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:280",
+      "name": "Paraguai",
+      "country_code": "PRY"
+    }
+  },
+  {
+    "id": "sr:competition:29021",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:385",
+      "name": "Uzbequistão",
+      "country_code": "UZB"
+    }
+  },
+  {
+    "id": "sr:competition:29109",
+    "name": "Supertaça da Rep. Checa - Eslováquia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:29118",
+    "name": "Campeonato Amapaense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:29208",
+    "name": "Taça do Equador",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:165",
+      "name": "Equador",
+      "country_code": "ECU"
+    }
+  },
+  {
+    "id": "sr:competition:29238",
+    "name": "Taça Bicentenario",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:20",
+      "name": "Perú",
+      "country_code": "PER"
+    }
+  },
+  {
+    "id": "sr:competition:29242",
+    "name": "Campeonato Cymru Sul",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:131",
+      "name": "País de Gales",
+      "country_code": "WAL"
+    }
+  },
+  {
+    "id": "sr:competition:29244",
+    "name": "Campeonato Cymru Norte",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:131",
+      "name": "País de Gales",
+      "country_code": "WAL"
+    }
+  },
+  {
+    "id": "sr:competition:29276",
+    "name": "Taça NPSL Members",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:29398",
+    "name": "Jogos Pan-Americanos Femininos",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:29466",
+    "name": "Taça Premier Centroamericana",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:29468",
+    "name": "Taça Black Label",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:322",
+      "name": "África do Sul",
+      "country_code": "ZAF"
+    }
+  },
+  {
+    "id": "sr:competition:29472",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:29492",
+    "name": "Jogos Pan-Americanos",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:29682",
+    "name": "Liga Regional de Tirol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:97",
+      "name": "Áustria Amadores",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:29684",
+    "name": "Liga de Elite Voralberg",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:97",
+      "name": "Áustria Amadores",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:29842",
+    "name": "Liga de Desenvolvimento Profissional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:252",
+      "name": "Inglaterra Amadores",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:29912",
+    "name": "Super Lig Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:29914",
+    "name": "1. Liga Sub-19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:29918",
+    "name": "Super Liga, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:25",
+      "name": "Suíça",
+      "country_code": "CHE"
+    }
+  },
+  {
+    "id": "sr:competition:30014",
+    "name": "Taça dos Clubes Campeões da Arábia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:30106",
+    "name": "Torneio Federal A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:30152",
+    "name": "Taça da Federação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:351",
+      "name": "Bahrain",
+      "country_code": "BHR"
+    }
+  },
+  {
+    "id": "sr:competition:30154",
+    "name": "Liga de Futebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:67",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:30254",
+    "name": "Primeira D Metropolitana",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:30913",
+    "name": "Paulista, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:30991",
+    "name": "Taça Sub-21 Pro Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:33",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:31377",
+    "name": "Jogos do Sudeste Asiático, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:31509",
+    "name": "Supertaça do Kuwait",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:331",
+      "name": "Kuwait",
+      "country_code": "KWT"
+    }
+  },
+  {
+    "id": "sr:competition:31631",
+    "name": "Torneio Pré-Olímpico CONMEBOL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:31699",
+    "name": "Supertaça do Brasil",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:31737",
+    "name": "Taça do Qatar",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:353",
+      "name": "Qatar",
+      "country_code": "QAT"
+    }
+  },
+  {
+    "id": "sr:competition:31787",
+    "name": "Supertaçado Equador",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:165",
+      "name": "Equador",
+      "country_code": "ECU"
+    }
+  },
+  {
+    "id": "sr:competition:31789",
+    "name": "Torneio de França, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:31791",
+    "name": "Qualificação Olímpica CONCACAF Sub-23",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:392",
+      "name": "Juniores Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:31793",
+    "name": "Campeonato Tocantinense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:31795",
+    "name": "Campeonato Capixaba",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:31833",
+    "name": "Campeonato Rondoniense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:31839",
+    "name": "Campeonato Acreano",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:31849",
+    "name": "Taça Pinatar, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:31863",
+    "name": "Supertaça de Espanha, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:31965",
+    "name": "Supertaça do Egito",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:305",
+      "name": "Egito",
+      "country_code": "EGY"
+    }
+  },
+  {
+    "id": "sr:competition:31981",
+    "name": "Taça da Federação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:279",
+      "name": "República da Moldávia",
+      "country_code": "MDA"
+    }
+  },
+  {
+    "id": "sr:competition:32037",
+    "name": "Campeonato Roraimense",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:32039",
+    "name": "Brasileiro Serie A2, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:13",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:32041",
+    "name": "Supertaça da Tunísia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:378",
+      "name": "Tunísia",
+      "country_code": "TUN"
+    }
+  },
+  {
+    "id": "sr:competition:32559",
+    "name": "Taça Challenge NWSL",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:32753",
+    "name": "Supertaça da Mongólia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1042",
+      "name": "Mongólia",
+      "country_code": "MNG"
+    }
+  },
+  {
+    "id": "sr:competition:32947",
+    "name": "Torneio Comeback da Eredivisie",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:32993",
+    "name": "Srl Olympics, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:2246",
+      "name": "Realidade Simulada Feminino"
+    }
+  },
+  {
+    "id": "sr:competition:33115",
+    "name": "Nwsl Fall Series, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:26",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:33133",
+    "name": "3ª Liga, Grupo 4",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:33632",
+    "name": "Supertaça de Andorra",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:376",
+      "name": "Andorra",
+      "country_code": "AND"
+    }
+  },
+  {
+    "id": "sr:competition:33656",
+    "name": "Premier League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:914",
+      "name": "Etiópia",
+      "country_code": "ETH"
+    }
+  },
+  {
+    "id": "sr:competition:33696",
+    "name": "Três Nações, One Goal, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:33746",
+    "name": "Olympic Qualif., Women, Caf-Conmebol Playoff",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:33890",
+    "name": "Super Taça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:385",
+      "name": "Uzbequistão",
+      "country_code": "UZB"
+    }
+  },
+  {
+    "id": "sr:competition:33980",
+    "name": "Divisão Profissional",
+    "parent_id": "sr:competition:866",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:379",
+      "name": "Bolívia",
+      "country_code": "BOL"
+    }
+  },
+  {
+    "id": "sr:competition:34066",
+    "name": "II Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:160",
+      "name": "Lituânia",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "id": "sr:competition:34184",
+    "name": "Qfa Cup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:353",
+      "name": "Qatar",
+      "country_code": "QAT"
+    }
+  },
+  {
+    "id": "sr:competition:34186",
+    "name": "League Cup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:304",
+      "name": "Argélia",
+      "country_code": "DZA"
+    }
+  },
+  {
+    "id": "sr:competition:34292",
+    "name": "3. Lig Playoffs",
+    "parent_id": "sr:competition:945",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:254",
+      "name": "Turquia Amadores",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:34480",
+    "name": "UEFA Liga Conferência da Europa",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:393",
+      "name": "Clubes Internacionais"
+    }
+  },
+  {
+    "id": "sr:competition:34504",
+    "name": "Arab Cup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:4",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:34518",
+    "name": "Super Cup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:351",
+      "name": "Bahrain",
+      "country_code": "BHR"
+    }
+  },
+  {
+    "id": "sr:competition:34590",
+    "name": "We League, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:52",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:34822",
+    "name": "3rd Division",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:8",
+      "name": "Dinamarca",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:34834",
+    "name": "Primera Division Rfef",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:32",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:34900",
+    "name": "Liga Portugal 3",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:44",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:34990",
+    "name": "U21 Knvb, Divisie 1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:35",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:35937",
+    "name": "Supercopa Paraguay",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:280",
+      "name": "Paraguai",
+      "country_code": "PRY"
+    }
+  },
+  {
+    "id": "sr:competition:35957",
+    "name": "Trofeo de Campeones de La Liga Profesional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:48",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  }
+]

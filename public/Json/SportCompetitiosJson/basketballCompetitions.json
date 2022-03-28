@@ -1,0 +1,2520 @@
+[
+  {
+    "id": "sr:competition:132",
+    "name": "NBA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:138",
+    "name": "Euroliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:141",
+    "name": "Eurocup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:156",
+    "name": "Pro A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:110",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:226",
+    "name": "Korisliiga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:149",
+      "name": "Finlândia",
+      "country_code": "FIN"
+    }
+  },
+  {
+    "id": "sr:competition:227",
+    "name": "BBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:111",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:230",
+    "name": "BBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:117",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:235",
+    "name": "Liga ABA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:250",
+    "name": "NBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:154",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:251",
+    "name": "1ª DBBL",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:111",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:262",
+    "name": "Série A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:263",
+    "name": "PLK",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:284",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:264",
+    "name": "Liga ACB",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:109",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:276",
+    "name": "Torneio Olimpico",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:277",
+    "name": "Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:114",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:285",
+    "name": "Campeonato Europeu",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:297",
+    "name": "Superliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:170",
+      "name": "Áustria",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:300",
+    "name": "Superliga, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:170",
+      "name": "Áustria",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:304",
+    "name": "Liga A1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:108",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:359",
+    "name": "Taça da Alemanha",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:111",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:396",
+    "name": "Taça do Rei",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:109",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:405",
+    "name": "Taça Lider LNB",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:110",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:432",
+    "name": "Torneio Olimpico Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:440",
+    "name": "Torneio Olimpico Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:441",
+    "name": "Campeonato do Mundo FIBA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:442",
+    "name": "Campeonato do Mundo Feminino FIBA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:486",
+    "name": "WNBA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:519",
+    "name": "TBSL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:112",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:555",
+    "name": "Segunda Liga",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:556",
+    "name": "A1 Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:575",
+    "name": "Taça dos Campeões",
+    "category": {
+      "id": "sr:category:111",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:579",
+    "name": "Liga Principal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:190",
+      "name": "Croácia",
+      "country_code": "HRV"
+    }
+  },
+  {
+    "id": "sr:competition:580",
+    "name": "Liga A1 Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:190",
+      "name": "Croácia",
+      "country_code": "HRV"
+    }
+  },
+  {
+    "id": "sr:competition:581",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:109",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:582",
+    "name": "Liga Báltica de Basquetebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:607",
+    "name": "PBL",
+    "category": {
+      "id": "sr:category:157",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:608",
+    "name": "Taça da Grécia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:108",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:648",
+    "name": "NCAA, Época Regular",
+    "parent_id": "sr:competition:29630",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:653",
+    "name": "Eurochallenge",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:659",
+    "name": "Campeonato Europeu Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:662",
+    "name": "Campeonato Europeu Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:663",
+    "name": "Qualificação Torneio Olimpico Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:681",
+    "name": "Campeonato EUA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:730",
+    "name": "Campeonato EUA, Fem",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:745",
+    "name": "1. A SKL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:292",
+      "name": "Eslovénia",
+      "country_code": "SVN"
+    }
+  },
+  {
+    "id": "sr:competition:754",
+    "name": "KLS",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:288",
+      "name": "Sérvia",
+      "country_code": "SRB"
+    }
+  },
+  {
+    "id": "sr:competition:843",
+    "name": "Liga de Basquetebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:244",
+      "name": "Dinamarca",
+      "country_code": "DNK"
+    }
+  },
+  {
+    "id": "sr:competition:871",
+    "name": "Jogos Amigáveis Internacionais",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:875",
+    "name": "NBA Jogo All Star",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:877",
+    "name": "Oitavos de Final",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:887",
+    "name": "Campeonato do Mundo Sub19",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:888",
+    "name": "Campeonato Europeu Feminino de Sub20 Divisão A",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:891",
+    "name": "Campeonato Europeu Feminino de Sub20 Divisão B",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:893",
+    "name": "Campeonato Europeu de Sub20 Divisão A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:894",
+    "name": "Campeonato Europeu de Sub20 Divisão B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:895",
+    "name": "Campeonato Europeu de Sub18 Divisão A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:896",
+    "name": "Campeonato Europeu de Sub18 Divisão B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:897",
+    "name": "Campeonato do Mundo Feminino  de Sub19",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:898",
+    "name": "Campeonato Europeu Feminino de Sub18 Divisão A",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:899",
+    "name": "Campeonato Europeu Feminino de Sub18 Divisão B",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:931",
+    "name": "Campeonato Africano FIBA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:933",
+    "name": "Campeonato Asiático FIBA Feminino, Nivel I",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:935",
+    "name": "Campeonato Asiático FIBA Feminino, Nivel II",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:941",
+    "name": "Supertaça de Basquetebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:943",
+    "name": "Campeonato Asiático FIBA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:949",
+    "name": "Campeonato da Oceânia FIBA",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:951",
+    "name": "Campeonato da Oceânia FIBA, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:973",
+    "name": "KML",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:194",
+      "name": "Estónia",
+      "country_code": "EST"
+    }
+  },
+  {
+    "id": "sr:competition:975",
+    "name": "LKL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:168",
+      "name": "Lituânia",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "id": "sr:competition:982",
+    "name": "LBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:258",
+      "name": "Letónia",
+      "country_code": "LVA"
+    }
+  },
+  {
+    "id": "sr:competition:1070",
+    "name": "Campeonato Europeu Feminino, Qualificação",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1155",
+    "name": "Jogo dos Campeões",
+    "category": {
+      "id": "sr:category:110",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:1157",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1165",
+    "name": "Pro A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:111",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:1167",
+    "name": "Euroliga Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1179",
+    "name": "Taça da Turquia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:112",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:1183",
+    "name": "Supertaça da Polónia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:284",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:1189",
+    "name": "Pro B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:110",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:1193",
+    "name": "Taça da Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:188",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:1195",
+    "name": "Jogos Amigáveis de Clubes",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1197",
+    "name": "Super Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:188",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:1201",
+    "name": "Liga Premier Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:157",
+      "name": "Rússia",
+      "country_code": "RUS"
+    }
+  },
+  {
+    "id": "sr:competition:1242",
+    "name": "Liga das Americas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1329",
+    "name": "Jogo All-Star WNBA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:1410",
+    "name": "Extraliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:383",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:1412",
+    "name": "Extraliga, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:383",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:1438",
+    "name": "Liga Unida",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1470",
+    "name": "Taça da Austria",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:170",
+      "name": "Áustria",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:1472",
+    "name": "LNBP",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:395",
+      "name": "México",
+      "country_code": "MEX"
+    }
+  },
+  {
+    "id": "sr:competition:1482",
+    "name": "1ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:154",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:1484",
+    "name": "ZBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:154",
+      "name": "República Checa",
+      "country_code": "CZE"
+    }
+  },
+  {
+    "id": "sr:competition:1492",
+    "name": "BNXT Liga Belga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:189",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:1498",
+    "name": "Supertaça da Austria",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:170",
+      "name": "Áustria",
+      "country_code": "AUT"
+    }
+  },
+  {
+    "id": "sr:competition:1500",
+    "name": "Supertaça da Turquiataça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:112",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:1502",
+    "name": "B.League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:483",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:1504",
+    "name": "BNXT Liga Holandesa",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:328",
+      "name": "Países Baixos",
+      "country_code": "NLD"
+    }
+  },
+  {
+    "id": "sr:competition:1506",
+    "name": "WNBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1512",
+    "name": "Taça Intercontinental",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1514",
+    "name": "LEB Ouro",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:109",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:1516",
+    "name": "B2.League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:483",
+      "name": "Japão",
+      "country_code": "JPN"
+    }
+  },
+  {
+    "id": "sr:competition:1520",
+    "name": "Série A2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1522",
+    "name": "Série A2 Prata",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:1524",
+    "name": "NBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:1528",
+    "name": "Superliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:267",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:1532",
+    "name": "Super Lig, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:112",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:1534",
+    "name": "ASWBL - Basquetebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1538",
+    "name": "Liga Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:109",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:1540",
+    "name": "KBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:375",
+      "name": "República da Coreia",
+      "country_code": "KOR"
+    }
+  },
+  {
+    "id": "sr:competition:1562",
+    "name": "NBB",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:263",
+      "name": "Brasil",
+      "country_code": "BRA"
+    }
+  },
+  {
+    "id": "sr:competition:1566",
+    "name": "CBA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:548",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:1580",
+    "name": "NBA G League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:1636",
+    "name": "Taça da Eslováquia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:383",
+      "name": "Eslováquia",
+      "country_code": "SVK"
+    }
+  },
+  {
+    "id": "sr:competition:1656",
+    "name": "PBA, Taça Comissionário",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:539",
+      "name": "Ilhas Filipinas",
+      "country_code": "PHL"
+    }
+  },
+  {
+    "id": "sr:competition:1666",
+    "name": "Taça de França",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:110",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:1680",
+    "name": "LNB",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:264",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:1712",
+    "name": "PBA, Taça do Governador",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:539",
+      "name": "Ilhas Filipinas",
+      "country_code": "PHL"
+    }
+  },
+  {
+    "id": "sr:competition:1756",
+    "name": "Liga de Basquetebol da ASEAN",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1796",
+    "name": "Campeonato Sul-Americano FIBA",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1798",
+    "name": "Centrobasket FIBA",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1814",
+    "name": "Centrobasket FIBA Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1816",
+    "name": "Campeonato Sul-Americano Feminino FIBA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1854",
+    "name": "LFB, Feminino",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:110",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:1916",
+    "name": "PLKK",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:284",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:1918",
+    "name": "Jogos Asiáticos",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1920",
+    "name": "NBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:372",
+      "name": "Bulgária",
+      "country_code": "BGR"
+    }
+  },
+  {
+    "id": "sr:competition:1926",
+    "name": "LPB",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:287",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:1934",
+    "name": "2º Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:189",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:1936",
+    "name": "Liga Sudamericana FIBA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:1938",
+    "name": "LNA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:312",
+      "name": "Suíça",
+      "country_code": "CHE"
+    }
+  },
+  {
+    "id": "sr:competition:1948",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:324",
+      "name": "Roménia",
+      "country_code": "ROU"
+    }
+  },
+  {
+    "id": "sr:competition:1956",
+    "name": "PBA, Taça das Filipinas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:539",
+      "name": "Ilhas Filipinas",
+      "country_code": "PHL"
+    }
+  },
+  {
+    "id": "sr:competition:1984",
+    "name": "Taça BBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:117",
+      "name": "Inglaterra",
+      "country_code": "ENG"
+    }
+  },
+  {
+    "id": "sr:competition:2003",
+    "name": "Liga dos Balcãs de Basquetebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2063",
+    "name": "Jogo All-Star",
+    "category": {
+      "id": "sr:category:111",
+      "name": "Alemanha",
+      "country_code": "DEU"
+    }
+  },
+  {
+    "id": "sr:competition:2080",
+    "name": "CBA Jogo All-Star",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:548",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:2098",
+    "name": "Taça da Bélgica",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:189",
+      "name": "Bélgica",
+      "country_code": "BEL"
+    }
+  },
+  {
+    "id": "sr:competition:2138",
+    "name": "Taça LNP",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:2197",
+    "name": "Jogos Amigáveis Internacionais Femininos",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2314",
+    "name": "Supertaça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:292",
+      "name": "Eslovénia",
+      "country_code": "SVN"
+    }
+  },
+  {
+    "id": "sr:competition:2358",
+    "name": "Camp. Africa FIBA, Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2370",
+    "name": "Taça Alpe Adria",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2382",
+    "name": "NBA Pré-Época",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:2384",
+    "name": "Superliga FBU",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:267",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:2388",
+    "name": "Taça Europeia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:2400",
+    "name": "Superliga ACBU",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:267",
+      "name": "Ucrânia",
+      "country_code": "UKR"
+    }
+  },
+  {
+    "id": "sr:competition:2402",
+    "name": "WKBL",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:375",
+      "name": "República da Coreia",
+      "country_code": "KOR"
+    }
+  },
+  {
+    "id": "sr:competition:2408",
+    "name": "WCBA",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:548",
+      "name": "China",
+      "country_code": "CHN"
+    }
+  },
+  {
+    "id": "sr:competition:2500",
+    "name": "Taça da Eslovénia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:292",
+      "name": "Eslovénia",
+      "country_code": "SVN"
+    }
+  },
+  {
+    "id": "sr:competition:2525",
+    "name": "Big V",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:2533",
+    "name": "SEABL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:2535",
+    "name": "SEABL, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:14003",
+    "name": "Campeonato Asiático Sub-18 FIBA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:14051",
+    "name": "Liga dos Campeões",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:14339",
+    "name": "Supertaça LNP",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:14449",
+    "name": "Supertaça de Portugal",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:287",
+      "name": "Portugal",
+      "country_code": "PRT"
+    }
+  },
+  {
+    "id": "sr:competition:14453",
+    "name": "Urvalsdeild, Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:546",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:14455",
+    "name": "Urvalsdeild",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:546",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:14457",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:828",
+      "name": "Chile",
+      "country_code": "CHL"
+    }
+  },
+  {
+    "id": "sr:competition:14554",
+    "name": "A1, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:108",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:14588",
+    "name": "Divisão A",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:423",
+      "name": "Chipre",
+      "country_code": "CYP"
+    }
+  },
+  {
+    "id": "sr:competition:14862",
+    "name": "IBL",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:780",
+      "name": "Indonésia",
+      "country_code": "IDN"
+    }
+  },
+  {
+    "id": "sr:competition:14895",
+    "name": "Taça de França, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:110",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:14961",
+    "name": "Taça da Sérvia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:288",
+      "name": "Sérvia",
+      "country_code": "SRB"
+    }
+  },
+  {
+    "id": "sr:competition:14963",
+    "name": "Taça da Croácia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:190",
+      "name": "Croácia",
+      "country_code": "HRV"
+    }
+  },
+  {
+    "id": "sr:competition:14985",
+    "name": "Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:15011",
+    "name": "Série A2, Taça LNP",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:15037",
+    "name": "Eurocup Feminina",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:15121",
+    "name": "Big V, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:15822",
+    "name": "Liga NBA de Verão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:16882",
+    "name": "Campeonato do Mundo Qualificação, Europa",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:17304",
+    "name": "Campeonato do Mundo Qual. África",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:17324",
+    "name": "Campeonato do Mundo Qual. Américas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:17788",
+    "name": "Campeonato do Mundo Qual. Oceânia e Ásia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:19980",
+    "name": "LUB",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:549",
+      "name": "Uruguai",
+      "country_code": "URY"
+    }
+  },
+  {
+    "id": "sr:competition:20098",
+    "name": "Jogo Campeões, Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:110",
+      "name": "França",
+      "country_code": "FRA"
+    }
+  },
+  {
+    "id": "sr:competition:20132",
+    "name": "NB I",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:285",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:20154",
+    "name": "A2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:108",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:21384",
+    "name": "NCAA, Fem.",
+    "parent_id": "sr:competition:33948",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:22350",
+    "name": "Super 20",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:264",
+      "name": "Argentina",
+      "country_code": "ARG"
+    }
+  },
+  {
+    "id": "sr:competition:23555",
+    "name": "Jogo All Star",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:112",
+      "name": "Turquia",
+      "country_code": "TUR"
+    }
+  },
+  {
+    "id": "sr:competition:23877",
+    "name": "Taça da Lituânia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:168",
+      "name": "Lituânia",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "id": "sr:competition:23881",
+    "name": "NBA Rising Stars Chal.",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:23977",
+    "name": "N.U.",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:188",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:24127",
+    "name": "NCAA Divisão II Campeonato Nacional",
+    "parent_id": "sr:competition:30190",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:24129",
+    "name": "NCAA Divisão III Campeonato Nacional",
+    "parent_id": "sr:competition:30190",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:24135",
+    "name": "Torneio Convite Nações",
+    "parent_id": "sr:competition:30190",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:24217",
+    "name": "Jogos Comunidade Nações",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:24219",
+    "name": "Jogos Com. Nações, Fem.",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:24722",
+    "name": "Campeonato das Américas Sub-18 FIBA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:25467",
+    "name": "NBA Jogo de África",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:25733",
+    "name": "Jogos Centro-Americanos e do Caribe Femininos",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:25739",
+    "name": "Jogos Centro-Americanos e do Caribe",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:26078",
+    "name": "Jogos Asiáticos Femininos",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:26450",
+    "name": "Nkl",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:168",
+      "name": "Lituânia",
+      "country_code": "LTU"
+    }
+  },
+  {
+    "id": "sr:competition:26586",
+    "name": "BLNO",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:106",
+      "name": "Noruega",
+      "country_code": "NOR"
+    }
+  },
+  {
+    "id": "sr:competition:26656",
+    "name": "Supertaça ABA",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:26658",
+    "name": "Liga ABA 2",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:26662",
+    "name": "1ª Liga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:284",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:26696",
+    "name": "Estonian-Latvian League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:26864",
+    "name": "Liga Nacional",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:188",
+      "name": "Israel",
+      "country_code": "ISR"
+    }
+  },
+  {
+    "id": "sr:competition:26882",
+    "name": "Super League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:798",
+      "name": "Irão",
+      "country_code": "IRN"
+    }
+  },
+  {
+    "id": "sr:competition:27108",
+    "name": "Nbl",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:876",
+      "name": "Canadá",
+      "country_code": "CAN"
+    }
+  },
+  {
+    "id": "sr:competition:28370",
+    "name": "NCAA Divisão I Campeonato Nacional",
+    "parent_id": "sr:competition:30190",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:28372",
+    "name": "College Basketball Invitational",
+    "parent_id": "sr:competition:30190",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:28374",
+    "name": "College Insider Tournament",
+    "parent_id": "sr:competition:30190",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:28543",
+    "name": "Nbl",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:277",
+      "name": "Nova Zelândia",
+      "country_code": "NZL"
+    }
+  },
+  {
+    "id": "sr:competition:28567",
+    "name": "NBL1",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:28569",
+    "name": "NBL1, Feminino",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:29075",
+    "name": "El Metro",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:549",
+      "name": "Uruguai",
+      "country_code": "URY"
+    }
+  },
+  {
+    "id": "sr:competition:29170",
+    "name": "Libobasquet",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1525",
+      "name": "Bolívia",
+      "country_code": "BOL"
+    }
+  },
+  {
+    "id": "sr:competition:29184",
+    "name": "Tbl",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1037",
+      "name": "Tailândia",
+      "country_code": "THA"
+    }
+  },
+  {
+    "id": "sr:competition:29628",
+    "name": "FIBA Afrocan",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:29630",
+    "name": "NCAA",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:29650",
+    "name": "Jogos Pan-Americanos",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:29652",
+    "name": "Jogos Pan-Americanos Femininos",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:30142",
+    "name": "Lnb",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1024",
+      "name": "República Dominicana",
+      "country_code": "DOM"
+    }
+  },
+  {
+    "id": "sr:competition:30150",
+    "name": "Torneo Interligas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:30190",
+    "name": "NCAA Postseason",
+    "parent_id": "sr:competition:29630",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:30394",
+    "name": "Supertaça de Espanha, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:109",
+      "name": "Espanha",
+      "country_code": "ESP"
+    }
+  },
+  {
+    "id": "sr:competition:30396",
+    "name": "NB I, Feminino",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:285",
+      "name": "Hungria",
+      "country_code": "HUN"
+    }
+  },
+  {
+    "id": "sr:competition:30438",
+    "name": "Svenska Basketligan, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:114",
+      "name": "Suécia",
+      "country_code": "SWE"
+    }
+  },
+  {
+    "id": "sr:competition:30530",
+    "name": "Americup Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:30532",
+    "name": "Asia Cup, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:30574",
+    "name": "Série B",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:107",
+      "name": "Itália",
+      "country_code": "ITA"
+    }
+  },
+  {
+    "id": "sr:competition:30580",
+    "name": "First Division",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:766",
+      "name": "Líbano",
+      "country_code": "LBN"
+    }
+  },
+  {
+    "id": "sr:competition:30616",
+    "name": "1ª Divisão",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:404",
+      "name": "Bósnia & Herzegovina",
+      "country_code": "BIH"
+    }
+  },
+  {
+    "id": "sr:competition:30754",
+    "name": "Champions League Americas",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:30881",
+    "name": "National A League",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:948",
+      "name": "Tunísia",
+      "country_code": "TUN"
+    }
+  },
+  {
+    "id": "sr:competition:31309",
+    "name": "SEA Games",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:31453",
+    "name": "SEA Games, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:31613",
+    "name": "Sbl",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1120",
+      "name": "Taipé Chinesa",
+      "country_code": "TPE"
+    }
+  },
+  {
+    "id": "sr:competition:31943",
+    "name": "Bsn",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:844",
+      "name": "Porto Rico",
+      "country_code": "PRI"
+    }
+  },
+  {
+    "id": "sr:competition:31979",
+    "name": "Taça da Polónia",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:284",
+      "name": "Polónia",
+      "country_code": "POL"
+    }
+  },
+  {
+    "id": "sr:competition:31999",
+    "name": "Qualificação Taça Americana",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:32001",
+    "name": "Taça Asiática Qualificação",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:32195",
+    "name": "NBA2K Players Tournament",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:2127",
+      "name": "Ligas Eletrónicas"
+    }
+  },
+  {
+    "id": "sr:competition:33946",
+    "name": "NCAA Divisão I Campeonato Nacional, Feminino",
+    "parent_id": "sr:competition:33948",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:33948",
+    "name": "Ncaa Women",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:33984",
+    "name": "NBL1, Central",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:33986",
+    "name": "NBL1, Oeste",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:33988",
+    "name": "NBL1 Feminino, Central",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:33990",
+    "name": "NBL1 Feminino, Oeste",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:34006",
+    "name": "Womens Basketball Invitational",
+    "parent_id": "sr:competition:33948",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:34008",
+    "name": "Womens National Invitation Tournament",
+    "parent_id": "sr:competition:33948",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:34024",
+    "name": "Superliga",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:839",
+      "name": "Venezuela",
+      "country_code": "VEN"
+    }
+  },
+  {
+    "id": "sr:competition:34056",
+    "name": "NBL1, Sul",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:34098",
+    "name": "NBL1, Norte",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:34102",
+    "name": "NBL1 Feminino, Norte",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:34104",
+    "name": "NBL1 Feminino, Sul",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:113",
+      "name": "Austrália",
+      "country_code": "AUS"
+    }
+  },
+  {
+    "id": "sr:competition:34360",
+    "name": "Liga Africana de Basquetebol",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:34472",
+    "name": "Lmb",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:1025",
+      "name": "El Salvador",
+      "country_code": "SLV"
+    }
+  },
+  {
+    "id": "sr:competition:34738",
+    "name": "U18 European Challengers, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:34740",
+    "name": "U20 European Challengers, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:34742",
+    "name": "U20 European Challengers",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:34754",
+    "name": "U18 European Challengers",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:34992",
+    "name": "WNBA Commissioner’s Cup",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:15",
+      "name": "Estados Unidos da América",
+      "country_code": "USA"
+    }
+  },
+  {
+    "id": "sr:competition:35260",
+    "name": "BNXT Super Taça",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:35262",
+    "name": "United League Super Cup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:103",
+      "name": "Internacional"
+    }
+  },
+  {
+    "id": "sr:competition:35266",
+    "name": "Super Cup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:108",
+      "name": "Grécia",
+      "country_code": "GRC"
+    }
+  },
+  {
+    "id": "sr:competition:35268",
+    "name": "Cup",
+    "gender": "men",
+    "category": {
+      "id": "sr:category:546",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  },
+  {
+    "id": "sr:competition:35270",
+    "name": "Cup, Women",
+    "gender": "women",
+    "category": {
+      "id": "sr:category:546",
+      "name": "Islândia",
+      "country_code": "ISL"
+    }
+  }
+]

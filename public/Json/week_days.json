@@ -1,0 +1,9 @@
+{
+  "Monday": { "fullName": "Segunda-feira", "shortName": "Seg" },
+  "Tuesday": { "fullName": "Terça-feira", "shortName": "Ter" },
+  "Wednesday": { "fullName": "Quarta-feira", "shortName": "Qua" },
+  "Thursday": { "fullName": "Quinta-feira", "shortName": "Qui" },
+  "Friday": { "fullName": "Sexta-feira", "shortName": "Sex" },
+  "Saturday": { "fullName": "Sábado", "shortName": "Sab" },
+  "Sunday": { "fullName": "Domingo", "shortName": "Dom" }
+}

@@ -1,0 +1,73 @@
+{
+  "futebol": {
+    "en_Name": "soccer",
+    "api_version": "v4",
+    "api_key": "4v8qsm5w6pgcns228e6pz2vz",
+    "route": "futebol",
+    "tournament_Name": "Soccer"
+  },
+  "Basquete": {
+    "en_Name": "basketball",
+    "api_version": "v2",
+    "api_key": "rpqvd8kvav7srxnp7b2ua7mc",
+    "route": "basquete",
+    "tournament_Name": "Basketball"
+  },
+  "Tênis": {
+    "en_Name": "tennis",
+    "api_version": "v3",
+    "api_key": "6d85gmk84bp3yjt47wdrjhs7",
+    "route": "tennis",
+    "tournament_Name": "Tennis"
+  },
+  "Futebol_Americano": {
+    "en_Name": "americanfootball",
+    "api_version": "v2",
+    "api_key": "xnudbqdneze5vkhvgygvcvtk",
+    "route": "futebol-americano",
+    "tournament_Name": "American Football"
+  },
+  "Hockey_no_gelo": {
+    "en_Name": "icehockey",
+    "api_version": "v2",
+    "api_key": "wmkcsepkbshnw9wma85tec5c",
+    "route": "hoquei",
+    "tournament_Name": "Ice Hockey"
+  },
+  "Beisebol": {
+    "en_Name": "baseball",
+    "api_version": "v2",
+    "api_key": "rbvvhfkr7vmy9heqbt6djt3c",
+    "route": "beisebol",
+    "tournament_Name": ""
+  },
+  "Esportes": {
+    "en_Name": "",
+    "api_version": "v2",
+    "api_key": "",
+    "route": "",
+    "tournament_Name": ""
+  },
+  "MMA": {
+    "en_Name": "",
+    "api_version": "v2",
+    "api_key": "",
+    "route": "",
+    "tournament_Name": ""
+  },
+  "Críquete": {
+    "en_Name": "cricket-t2",
+    "api_version": "",
+    "api_key": "5zdhv3vy79n8uh57y7xfktj9",
+    "route": "criquete",
+    "tournament_Name": "Cricket"
+  },
+  "Rúgbi": {
+    "en_Name": "rugby-league",
+    "api_version": "v3",
+    "api_key": "bext8ybg82fcbhjqgx4e4jjr",
+    "route": "",
+    "tournament_Name": "Rugby"
+  },
+  "Boxe": { "en_Name": "", "api_version": "v2", "api_key": "", "route": "" }
+}
