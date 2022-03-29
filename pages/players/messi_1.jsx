@@ -1,8 +1,23 @@
 import styles from "../../styles/players/page1.module.scss";
 import Image from "next/image";
 import mark from "../../assets/img_players/fcb.png";
+import axios from "axios";
+import { useState, useEffect } from "react";
 
-const page1 = () => {
+const page1 = (data) => {
+  const [temp, setTemp] = useState();
+
+  useEffect(() => {
+    axios({
+      method: "get",
+      url: `https://proxy.bets.com.br/${data.en_Name}/trial/${data.api_version}/pt/players/${data.playersid}/profile.json?api_key=${data.api_key}`,
+    })
+      .then((res) => {
+        setTemp(res.data);
+      })
+      .catch((err) => console.log(err));
+  }, [data]);
+
   return (
     <div className={styles.body}>
       <div className={styles.container}>
@@ -25,16 +40,26 @@ const page1 = () => {
                   />
                 </svg>
               </div>
-              <div className={styles.titlecontent1}>FCBARCELONA</div>
-              <div className={styles.titlecontent2}> \ MESSI</div>
+              <div className={styles.titlecontent1}>
+                {temp ? "" : "FCBARCELONA"}
+              </div>
+              <div className={styles.titlecontent2}>
+                {temp
+                  ? temp.player.name.split(".")[1].replace(" ", "")
+                  : "/ MESSI"}{" "}
+              </div>
             </div>
             <div className={styles.mobilemark}>
-              <Image
-                src={mark}
-                alt="Picture of the author"
-                width={80}
-                height={80}
-              />
+              {temp ? (
+                ""
+              ) : (
+                <Image
+                  src={mark}
+                  alt="Picture of the author"
+                  width={80}
+                  height={80}
+                />
+              )}
             </div>
             <div className={styles.about}>
               <div className={styles.aboutLineContent}>
@@ -42,15 +67,24 @@ const page1 = () => {
               </div>
               <span className={styles.abouttitle}>ABOUT</span>
             </div>
-            <div className={styles.titleLionel}> Lionel Andrés “LEO” Messi</div>
-            <div className={styles.titleLionelContent}>
-              Lionel Andrés “LEO” Messi (Spanish pronounciation: [Ijonel adnes
-              messi](Listen); born 24 june 1987) is an Argentine professional
-              footballer who plays as a forward for Spanish club Barcelona and
-              the Argentine national team. Often considered the best player in
-              the world and rated by many in the sport as the greatest of all
-              time.
-            </div>
+            {temp ? (
+              ""
+            ) : (
+              <>
+                <div className={styles.titleLionel}>
+                  {" "}
+                  Lionel Andrés “LEO” Messi
+                </div>
+                <div className={styles.titleLionelContent}>
+                  Lionel Andrés “LEO” Messi (Spanish pronounciation: [Ijonel
+                  adnes messi](Listen); born 24 june 1987) is an Argentine
+                  professional footballer who plays as a forward for Spanish
+                  club Barcelona and the Argentine national team. Often
+                  considered the best player in the world and rated by many in
+                  the sport as the greatest of all time.
+                </div>
+              </>
+            )}
             <div className={styles.titleFULL}>FULL BIO</div>
             <div className={styles.titleSocial}>
               <div className={styles.titleTwitter}>
@@ -114,14 +148,29 @@ const page1 = () => {
               >
                 <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" />
               </svg>
-              <span className={styles.oldtitle}>leo_messi (32min ago)</span>
+
+              <span className={styles.oldtitle}>
+                {temp
+                  ? temp.player.name.split(",")[0] +
+                    "_" +
+                    temp.player.name.split(",")[1].replace(" ", "") +
+                    "(" +
+                    parseInt(new Date().getFullYear()) -
+                    parseInt(temp.player.date_of_birth.split("-")[0]) +
+                    "min ago)"
+                  : "leo_messi (32min ago)"}
+              </span>
             </div>
 
             <div className={styles.oldPart2}>
-              <p>
-                "Another great performance by the team today. Forca{" "}
-                <span className={styles.oldPart2Piece}># Barca</span>!"
-              </p>
+              {temp ? (
+                ""
+              ) : (
+                <p>
+                  "Another great performance by the team today. Forca{" "}
+                  <span className={styles.oldPart2Piece}># Barca</span>!"
+                </p>
+              )}
             </div>
           </div>
           <div className={styles.playForm}>
@@ -145,57 +194,95 @@ const page1 = () => {
               >
                 <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z" />
               </svg>
-              <span className={styles.yeartitle}>leo_messi (32min ago)</span>
+              <span className={styles.yeartitle}>
+                {temp
+                  ? temp.player.name.split(",")[0] +
+                    "_" +
+                    temp.player.name.split(",")[1].replace(" ", "")
+                  : "leo_messi (1 day ago)"}
+              </span>
             </div>
             <div className={styles.yearPart2}>
-              <p>
-                "Looking forward to the semifinal on Saturday. Forca
-                <span className={styles.oldPart2Piece}># Barca</span>!"
-              </p>
+              {temp ? (
+                ""
+              ) : (
+                <p>
+                  "Looking forward to the semifinal on Saturday. Forca
+                  <span className={styles.oldPart2Piece}># Barca</span>!"
+                </p>
+              )}
             </div>
           </div>
         </div>
         <div className={styles.right}>
           <div className={styles.mark}>
-            <Image
-              src={mark}
-              alt="Picture of the author"
-              width={80}
-              height={80}
-            />
+            {temp ? (
+              ""
+            ) : (
+              <Image
+                src={mark}
+                alt="Picture of the author"
+                width={80}
+                height={80}
+              />
+            )}
           </div>
-          <div className={styles.marktitle}>
-            <div className={styles.nestTitle}></div>
-          </div>
+          {temp ? "" : <div className={styles.nestTitle}></div>}
+
           <div className={styles.table}>
             <div className={styles.fullname}>
               <span>Full name</span>
-              <span>Lionel Andrés Messi</span>
+              {temp ? (
+                temp.player.name
+              ) : (
+                <span>{temp ? temp.player.name : "Lionel Andrés Messi"}</span>
+              )}
             </div>
             <div className={styles.birth}>
               <span>Date of birth</span>
-              <span>24 June 1987 (age 28)</span>
+              <span>
+                {temp
+                  ? temp.player.date_of_birth +
+                    "(age" +
+                    parseInt(new Date().getFullYear()) -
+                    parseInt(temp.player.date_of_birth.split("-")[0]) +
+                    ")"
+                  : "24 June 1987 (age 28)"}
+              </span>
             </div>
             <div className={styles.height}>
-              <span>Height</span>
-              <span>1.70 m (5 ft 7 in)</span>
+              <span>{temp ? "" : "Height"}</span>
+              <span>{temp ? "" : "1.70 m (5 ft 7 in)"}</span>
             </div>
-            <div className={styles.position}>
-              <span>Position</span>
-              <span>Forward</span>
-            </div>
+            {temp ? (
+              ""
+            ) : (
+              <div className={styles.position}>
+                <span>Position</span>
+                <span>Forward</span>
+              </div>
+            )}
+
             <div className={styles.team}>
               <span>Current team</span>
-              <span>Barcelona</span>
+              {temp ? temp.teams[1].name : <span>Barcelona</span>}
             </div>
-            <div className={styles.number}>
-              <span>Number</span>
-              <span>10</span>
-            </div>
-            <div className={styles.salary}>
-              <span>Salary</span>
-              <span>26,5 m EUR (2015)</span>
-            </div>
+            {temp ? (
+              ""
+            ) : (
+              <div className={styles.number}>
+                <span>Number</span>
+                <span>10</span>
+              </div>
+            )}
+            {temp ? (
+              ""
+            ) : (
+              <div className={styles.salary}>
+                <span>Salary</span>
+                <span>26,5 m EUR (2015)</span>
+              </div>
+            )}
           </div>
         </div>
       </div>

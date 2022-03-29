@@ -121,6 +121,7 @@ const TeamDetails = () => {
   useEffect(() => {
     if (router.query.id != undefined) ApiCall();
   }, [router.query.id]);
+
   useEffect(async () => {
     if (router.query.name != undefined) {
       setGameName(router.query.name);
@@ -165,6 +166,7 @@ const TeamDetails = () => {
       }
     }
   }, [router.query.name]);
+
   useEffect(() => {
     //let selectedSport = localStorage.getItem("sportName");
     let selectedSport = router.query.sportName;
@@ -209,6 +211,7 @@ const TeamDetails = () => {
         }
       })
       .catch((error) => console.log(error));
+
     await axios({
       method: "get",
       url: `https://proxy.bets.com.br/${sport.en_Name}/trial/${sport.api_version}/pt/competitors/${router.query.teamid}/profile.json?api_key=${sport.api_key}`,

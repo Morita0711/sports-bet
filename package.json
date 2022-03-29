@@ -15,7 +15,7 @@
     "@tailwindcss/line-clamp": "^0.2.1",
     "@tryghost/content-api": "^1.5.12",
     "antd": "^4.17.1",
-    "axios": "^0.21.1",
+    "axios": "^0.26.1",
     "crypto-js": "^4.1.1",
     "dayjs": "^1.10.6",
     "express": "^4.17.2",
